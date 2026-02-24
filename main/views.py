@@ -192,7 +192,7 @@ def predict_submit(request):
 # min max
         context = {
             'stats': {
-                'min': int(final_time - 25),
+                'min': max(0, int(final_time - 25)),
                 'avg': final_time,
                 'max': int(final_time + 25)
             },
