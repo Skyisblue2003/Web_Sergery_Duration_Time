@@ -1,0 +1,12 @@
+﻿Django
+gunicorn
+whitenoise
+pandas
+numpy
+openpyxl
+scikit-learn
+xgboost
+lightgbm
+catboost
+joblib
+python-dotenv
