@@ -192,9 +192,9 @@ def predict_submit(request):
 # min max
         context = {
             'stats': {
-                'min': int(final_time * 0.85),
+                'min': int(final_time - 25),
                 'avg': final_time,
-                'max': int(final_time * 1.15)
+                'max': int(final_time + 25)
             },
             'doctor_name': next((d['text'] for d in DROPDOWN_DATA['doctors'] if d['id'] == doc_id), doc_id),
             'treatment_list': treatment_names_display,
