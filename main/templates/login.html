@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+    <meta charset="UTF-8">
+    <title>เข้าสู่ระบบ | Surgery Predictor</title>
+    <link rel="stylesheet" href="/static/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body class="auth-bg">
+    <div class="auth-card">
+        <div style="text-align: center; margin-bottom: 1.5rem;">
+            <i class="fa-solid fa-user-md" style="font-size: 3.5rem; color: #007bff;"></i>
+            <h2 style="margin-top: 10px; color: #333;">Surgery Prediction</h2>
+        </div>
+        
+        {% if messages %}
+            {% for message in messages %}
+                <div class="alert alert-success" style="background: #d4edda; color: #155724; padding: 12px; border-radius: 8px; margin-bottom: 15px; border: 1px solid #c3e6cb; font-size: 0.9rem;">
+                    <i class="fa-solid fa-check-circle"></i> {{ message }}
+                </div>
+            {% endfor %}
+        {% endif %}
+
+        {% if form.errors %}
+            <div class="alert alert-error" style="background: #f8d7da; color: #721c24; padding: 12px; border-radius: 8px; margin-bottom: 15px; border: 1px solid #f5c6cb; font-size: 0.9rem;">
+                <i class="fa-solid fa-circle-xmark"></i> ชื่อผู้ใช้หรือรหัสผ่านไม่ถูกต้อง
+            </div>
+        {% endif %}
+
+        <form method="post">
+            {% csrf_token %}
+            <div class="form-group">
+                <label>ชื่อผู้ใช้งาน (Username)</label>
+                <input type="text" name="username" class="form-control" required placeholder="ระบุชื่อผู้ใช้งาน">
+            </div>
+            
+            <div class="form-group">
+                <label>รหัสผ่าน (Password)</label>
+                <div style="position: relative;">
+                    <input type="password" name="password" id="loginPass" class="form-control" required placeholder="ระบุรหัสผ่าน">
+                    <span onclick="togglePass('loginPass', this)" style="position: absolute; right: 12px; top: 12px; cursor: pointer; color: #888;">
+                        <i class="fa-solid fa-eye"></i>
+                    </span>
+                </div>
+            </div>
+
+            <button type="submit" class="btn-primary" style="width: 100%; padding: 12px; background: #28a745; color: white; border: none; border-radius: 8px; font-weight: bold; cursor: pointer; font-size: 1rem;">
+                <i class="fa-solid fa-right-to-bracket"></i> เข้าสู่ระบบ
+            </button>
+        </form>
+
+        <div class="auth-footer" style="text-align: center; margin-top: 20px; font-size: 0.9rem;">
+            ยังไม่มีบัญชี? <a href="{% url 'register' %}" style="color: #007bff; text-decoration: none; font-weight: bold;">สมัครสมาชิกแพทย์ที่นี่</a>
+        </div>
+    </div>
+
+    <script>
+        function togglePass(id, el) {
+            const input = document.getElementById(id);
+            const icon = el.querySelector('i');
+            if (input.type === "password") {
+                input.type = "text";
+                icon.classList.replace('fa-eye', 'fa-eye-slash');
+            } else {
+                input.type = "password";
+                icon.classList.replace('fa-eye-slash', 'fa-eye');
+            }
+        }
+    </script>
+</body>
+</html>

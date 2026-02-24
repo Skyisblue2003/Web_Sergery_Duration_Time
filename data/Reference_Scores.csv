@@ -1,0 +1,1408 @@
+TreatmentCode,Avg_Time_Score,Case_Count,TreatmentName
+10104,206.0058222,7042,?????? Hypo - hyperthermia ???????????????????
+12202,273.2795422,3495,?????????????????? ??????????????????
+OOR0054,98.2160555,3027,Gastroduodenoscopy & biopsy.
+ORP00004,104.5279605,2432,????????????????????????????? + Polypectomy
+ORP00001,103.1185012,2135,?????????????????????????????
+1103003,67.4774026,1925,????????????????????????????.
+SFE001,124.0122905,1790,????????????????? (???????)
+DFE001,127.1885681,1697,??????????????????????? (???????)
+EYE016,64.03851091,1558,(13.41) Phacoemulsification with intracapsular lens insertion
+1111151,172.5204461,1345,(11.15.1) Fluoroscope.
+DFE003,178.5955882,952,???????????????????????? (???????)
+ORP00003,99.76242236,644,????????????????????????????? + Biopsy
+86030101002,80.66023166,518,"(86.03) Local excision of lesion or tissue of skin and subcutaneous tissue,Other."
+40104,270.8412698,504,?????????? Glucose DTX.
+DFE002,212.7884232,501,?????????????????????????????? (???????)
+OOR0035,81.04484305,446,Coronary angiography (CAG) .
+04430000001,61.50815851,429,(4.43) Release of carpal tunnel.
+116823A,105.2610723,429,(68.23) Dilation and curettage (For hysteroscopy).
+URO001,48.69767442,387,(57.32) Flexible Cystoscope ???????????????????????????????????????
+OOR0053,95.67282322,379,Gastroduodenoscopy.
+68510200001,233.742029,345,(68.51) Total Laparoscopic Hysterectomy(TLH).
+OOR0060,176.2639296,341,?????????????????????????????? (Proctosigmoidoscopy fiberoptic).
+OOR0036,100.7233333,300,Percutaneous transluminal coronary agiography and stent implantation.
+85200101001,141.6860068,293,"(85.2) Excision or destruction of breast tissue,NOS."
+51230101001,173.3894737,285,(51.23) Laparoscopic cholecystectomy(LC).
+81540101001,209.2826855,283,(81.54) Total knee replacement(TKA).
+118774,202.1740741,270,?????????? Glucose DTX.
+65490100001,231.3346457,254,(65.49) Bilateral salpingo-oophorectomy(BSO).
+67320200001,85.36363636,253,(67.32) Loop Electrosurgical Excision Procedure(LEEP).
+54210101001,310.2063492,252,(54.21) Laparoscopy.
+OOR0065,138.4780702,228,????? Endoscopic Retrograde Cholangio Pancreatography (ERCP).
+114023,189.8266667,225,(40.23) Excision of axillary lymph node.
+80290201001,275.2818182,220,"(80.29) Arthroscopy,Spine."
+PFANE01,146.3333333,213,???????????????????? (GA) ??????????.
+URO003,72.42021277,188,(60.11) MRI fusion TRUS prostate biopsy ????????????????????????????????????? MRI ????????????????????????
+68400000001,246.802139,187,(68.4) Total abdominal hysterectomy(TAH).
+ROR021,85.88709677,186,????????????? Minor 1 ???????
+57320000001,90.33974359,156,"(57.32) Cystoscopy,Other."
+68230100001,90.52941176,153,(68.23) Dilation and curettage.
+66630101001,229.2108844,147,"(66.63) Bilateral partial salpingectomy,not otherwise specified."
+34020300001,245.3669065,139,(34.02) VATS.
+46100000001,207.9777778,135,"(46.1) Colostomy, not otherwise specified."
+85410101001,203.6929134,127,(85.41) Unilateral simple mastectomy.
+03920000001,63.88188976,127,(3.92) Injection of other agent into spinal canal.
+80210101001,197.6349206,126,"(80.21) Arthroscopy,shoulder."
+65610100001,270.0701754,114,(65.61) Bilateral Salpingo Oophorectomy ( BSO )with BPND.
+47090101001,186.1858407,113,"(47.09) Appendectomy,Other."
+80260101001,185.6607143,112,"(80.26) Arthroscopy,knee."
+86220101001,150.8571429,112,"(86.22) Excisional debridement of wound,infection,or burn(OR)."
+EYE001,74.8411215,107,Phacoemulsification with intracapsular lens insertion
+ROR001,183.3301887,106,????????????? Major 1-2 ???????
+45730000001,265.1415094,106,(45.73) Right hemicolectomy.
+PF04530000,95.74038462,104,(4523) Fiberoptic colonoscopy.
+46520200001,194.4038462,104,(46.52) Closure or take-down of:colostomy.
+57490000001,122.2673267,101,"(57.49) (TUR) Transurethral excision or destruction of lesion of bladder,Other."
+54110101001,219.7128713,101,(54.11) Exploratory laparotomy.
+1103025,60.34653465,101,?????????????????? (Intra Vitreous Injection).
+81000301001,299.960396,101,(81) Pedicular screws fixation of spine.
+48630000001,330.0526316,95,"(48.63) Anterior resection of rectum,Other."
+68290100001,249.0549451,91,(68.29) Uterine myomectomy.
+116823,107.6363636,88,(68.23) Endometrial ablation (For hysteroscopy).
+56000400001,153.0232558,86,(56) URSL (Ureteroscopy with litholapaxy).
+65490000001,236.4,80,"(65.49) Unilateral salpingo-oophorectomy(SO),Other."
+50220100001,393.721519,79,(50.22) Wedge resection of liver.
+68040200001,255.3076923,78,(68.4) TAH and BSO.
+PFANE02,284.961039,77,???????????????????? (GA) ????????????.
+EYE005,75.61333333,75,(11.39) Pterygium excision with conjunctival autograft
+OOR0058,137.8666667,75,Endoscopic ultrasound.
+65290500001,195.972973,74,(65.29) Laparoscopic unilateral ovarian cystectomy.
+03800000001,69,74,(3.8) Injection of destructive agent into spinal canal.
+32400101001,274.972973,74,(32.4) Lobectomy of lung.
+49460100001,116.4444444,72,(49.46) Hemorrhoidectomy NOS.
+85470201001,177.6901408,71,"(85.47) Excision of breast,muscles and lymph nodes[axillary."
+60500101001,349.8676471,68,(60.5) Radical prostatectomy.
+45760000001,283.3823529,68,(45.76) Sigmoidectomy.
+60290601001,148.1470588,68,(60.29) Transurethral resection of prostate (TURP).
+54230301001,264.6470588,68,(54.23) Biopsy of:omentum.
+03090103001,304.4117647,68,(3.09) Decompression:Laminectomy:posterior instrumentation.
+83630101001,186.6716418,67,(83.63) Rotator cuff repair.
+54500101001,284.640625,64,(54.5) Lysis of peritoneal adhesions.
+EYE002,94.68253968,63,(8.36) Blepharoplasty
+06400101001,241.4444444,63,"(6.4) Thyroidectomy, total."
+PFANE07,96.24590164,61,?????????????????????????? (IVA)??????????.
+51220100001,261.5081967,61,(51.22) Cholecystectomy.
+31010200001,116.7213115,61,(31.1) Tracheostomy.
+85430000001,212.137931,58,(85.43) Modified radical mastectomy(MRM).
+36140101001,449.6140351,57,(36.14) Aortocoronary bypass(CABG) of four or more coronary arteries.
+43190000001,132.9122807,57,"(43.19) Gastrostomy,Other."
+85430300001,214.4035088,57,(85.43) Modified radical mastectomy(MRM).
+86830202001,124.5,56,(86.83) Excision of lipoma (OR).
+EYE012,122.3090909,55,(14.74) Phacoemulsification with intraocular lens insertion with pars plana vitrectomy with membrane peeling
+CUSAC,435.9636364,55,????????????????????????????????????????????????? (CUSA Clarity)
+URO007,62.87272727,55,(56.99) Cystoscopy DJ stent insertion ?????????????????????????????????????????????
+65290600001,228.4444444,54,(65.29) Laparoscopic bilateral ovarian cystectomy.
+48620000001,435.8490566,53,(48.62) Anterior resection of rectum with synchronous colostomy.
+81450201001,193.9056604,53,"(81.45) ACL reconstruction,Repair of the cruciate ligaments."
+10306,122.6346154,52,O2< 8 Hr.
+03090101001,264.0784314,51,(3.09) Decompression:Laminectomy.
+40540000001,308.22,50,"(40.54) Radical groin dissection,BPND,Bilateral pelvic node dissection."
+ROR002,259.7708333,48,????????????? Major 3 ???????
+PFANE04,306.8085106,47,????????????????????? (GA complicated) ????????????.
+06200101001,178.7234043,47,(6.2) Unilateral thyroid lobectomy.
+ROB001,459.8085106,47,?????????????????????????????? Robotic
+32290301001,198.2340426,47,(32.29) Resection of lung:wedge.
+85430401001,238.9130435,46,(85.43) (MRM)Simple mastectomy with excision of regional lymph node.
+57790102001,198.9130435,46,(57.79) Laparoscopic cystectomy.
+12201,206.0222222,45,????????????????? ?????????????????
+54590101001,230.5909091,44,"(54.59) Lysis of peritoneal adhesions,Other."
+OOR0037,111.1136364,44,Additional coronary arteries .
+PF04532601,98.95238095,42,(4541) Endoscopic polypectomy of large intestine.
+50220000001,411.1,40,(50.22) Partial hepatectomy.
+86030601001,84.375,40,(86.3) Local excision or destruction of lesion or tissue o.
+URO002,136.525,40,(57.32) Rigid cystoscope ???????????????????????????????????????
+35210101001,285.6410256,39,(35.21) Replacement of aortic valve with tissue graft.
+49110000001,116.9487179,39,(49.11) Anal fistulotomy.
+PFANE03,281.9230769,39,????????????????????? (GA complicated) ??????????.
+48500300001,596.8684211,38,(48.5) Laparoscopic low anterior resection.
+68400200001,252.1842105,38,(68.4) TAH and BSO.
+54400601001,264.972973,37,(54.4) Excision of:lesion of:omentum.
+13190600001,78.88888889,36,(13.19) Phaco with IOL.
+65410100001,203.6388889,36,(65.41) Laparoscopic Surgery to Salpingectomy.
+ROB002,390.6111111,36,"???????????????????????????????????????????????? (DRG 9106, SC 9106, UC 9106)"
+79320101001,167.1111111,36,"(79.32) Open reduction of fracture with internal fixation(ORIF),radius and ulna."
+81510101001,210.0833333,36,(81.51) Total hip replacement(THA)(THR).
+OOR0044,141.6,35,Permanent Pacemaker.
+53000201001,153.4117647,34,(53) Inguinal herniorrhaphy NOS.
+36130101001,441.3939394,33,(36.13) Aortocoronary bypass(CABG) of three coronary arteries.
+56310000001,120.3030303,33,(56.31) Ureteroscopy(URS).
+112802,138.4848485,33,(28.2) Tonsillectomy.
+URO008,81.45454545,33,(64.0) Circumcision ??????????????????????????????????
+85210101001,135.0625,32,(85.21) Local excision of lesion of breast.
+45750000001,339.5,32,(45.75) Left hemicolectomy(hartman).
+PF04530400,93.71875,32,(4525) Closed [endoscopic] biopsy of large intestine.
+EYE120004,56.40625,32,?????????????????? (Intra Vitreous Injection).
+39270000001,161.3666667,30,(39.27) Arteriovenostomy for renal dialysis(loop graft).
+65410000001,203,30,(65.41) Laparoscopic unilateral salpingo-oophorectomy.
+68510400001,272.6551724,29,(68.51) Laparoscopic complete staging hysterectomy.
+118630,85.75862069,29,(86.30) Excision of lesion of skin and subcutaneous tissue.
+49120000001,125.3793103,29,(49.12) Anal fistulectomy.
+22190200001,174.5714286,28,(22.19) Unilat.FESS (Functional endoscopic sinus surgery).
+32300101001,274.6071429,28,(32.3) Segmental resection of lung.
+URO004,57.14285714,28,(60.11) TRUS biopsy ??????????????????????????????????????
+ROB0011,439.75,28,[Promotion] ?????????????????????????????? Robotic
+46110000001,278.1111111,27,(46.11) Temporary colostomy.
+DF5900017,93.96153846,26,?????????????????????????????????????????????? (IV)
+85410301001,187.4615385,26,(85.41) Mastectomy:complete.
+1103035,117.8846154,26,Direct laryngoscopy+biopsy.
+80230101001,154.2916667,24,"(80.23) Arthroscopy,wrist."
+80270101001,269.875,24,"(80.27) Arthroscopy,ankle."
+06390301001,176.8333333,24,"(6.39) Thyroidectomy, partial."
+48630100001,535.6666667,24,(48.63) Laparoscopic anterior resection.
+OOR0043,156.4166667,24,Temporary Pacemaker.
+53040101001,161.3913043,23,(53.04) Repair of indirect inguinal hernia with graft or prosthesis.
+68600300001,275.4782609,23,(68.6) Total Abdominal Hysterectomy with Bilateral pelvic.
+50300000001,410.0434783,23,(50.3) Lobectomy of liver.
+49010000001,97.43478261,23,(49.01) Incision of perianal abscess.
+URO010,84.26086957,23,(62.41) Bilateral orchiectomy ?????????????????????
+66400000001,227.6521739,23,(66.40) Total unilateral salpingectomy.
+EYE006,74.77272727,22,(13.2) Extracapsular cataract extraction with intraocular lens insertion
+52700501001,544.8181818,22,(52.7) Whipple procedure.
+URO005,79.5,22,(55.03) Percutaneous nephrostomy (PCN) ??????????????????????
+22190300001,239.1818182,22,(22.19) Bilat.FESS (Functional endoscopic sinus surgery).
+40510000001,220.5,22,(40.51) Radical excision of axillary lymph nodes.
+116011,64.68181818,22,(60.11) Closed [percutaneous] [needle] biopsy of prostate.
+60500102001,331.6818182,22,(60.5) Laparoscopic prostatectomy.
+40410000001,309.7727273,22,"(40.41) Radical neck dissection, unilateral."
+60120101001,66.04761905,21,(60.12) Open biopsy of prostate.
+66690101001,214.5714286,21,"(66.69) Partial salpingectomy,Other."
+35960101001,170.4285714,21,(35.96) Percutaneous valvuloplasty.
+85410201001,208.6190476,21,(85.41) Mastectomy:NOS.
+34600100001,169.0952381,21,(34.6) Pleurosclerosis.
+85430101001,223.6190476,21,(85.43) (MRM)Unilateral extended simple mastectomy.
+ROR003,309.8571429,21,????????????? Major 4 ???????
+56510100001,420.3809524,21,(56.51) Construction of ileal conduit.
+65290400001,261.7,20,(65.29) Ovarian cystectomy.
+83390101001,106.5,20,(83.39) Excision of lesion of other soft tissue.
+48500000001,419.05,20,(48.5) Abdominoperineal resection of rectum(A-P)(AP).
+116812,95.65,20,(68.12) Diagnostic hysteroscopy.
+55030400001,77.75,20,(55.03) Percutaneous nephrostomy(PCN)(Surg).
+39630000001,380.5789474,19,(39.63) Cardioplegia(???????).
+39610200001,380.5789474,19,(39.61) Cardiopulmonary bypass.
+14730000001,107.6315789,19,(14.73) Mechanical vitrectomy by anterior approach.
+PF04430000,92.73684211,19,(4516) Fiberoptic esophagogastroduodenoscopy[EGD].
+53510101001,211.6315789,19,(53.51) Incisional hernia repair.
+68120000001,107.7777778,18,(68.12) Hysteroscopy.
+10803,364.5555556,18,????????????? Cusa Excel.
+DF5900007,92.22222222,18,?????????????????????????????????????
+39620000001,385.7222222,18,(39.62) Hypothermia (systemic) incidental to open heart surgery.
+45760100001,482.6111111,18,(45.76) Laparoscopic sigmoidectomy.
+57710301001,418.3333333,18,(57.71) Radical cystectomy (male).
+80220101001,146.2222222,18,"(80.22) Arthroscopy,elbow."
+39500200001,195.4117647,17,(39.5) Percutaneous transluminal angioplasty (PTA) :Lower extremity vessels.
+83490101001,116.1176471,17,"(83.49) Excision of soft tissue,Other."
+08340101001,166.5882353,17,(8.34) Repair of blepharoptosis by other levator muscle tecnique.
+ROR004,364.8235294,17,????????????? Major 5 ???????
+1103069,106.4705882,17,Radiofrequency inferior turbinate.
+68600000001,317.1176471,17,(68.6) Radical abdominal hysterectomy.
+OOR0055,75.70588235,17,Esophago-gastroscope with banding.
+86740800001,410.4705882,17,(86.74) Flap reconstruction.
+81020101001,215.25,16,"(81.02) Cervical fusion,anterior technique,Other."
+OOR0061,93.25,16,Banding Hemorrhoid.
+47010101001,172.0625,16,(47.01) Laparoscopic Appendectomy.
+53050101001,141.75,16,"(53.05) Repair of inguinal hernia with graft or prosthesis, NOS."
+86400201001,226.25,16,(86.4) Wide excision of skin lesion involving underlying structure.
+54990000001,297.5333333,15,(54.99) Explor-lap to debulging tumor.
+37120100001,102.2,15,(37.12) Pericardial window operation.
+12730000001,51.13333333,15,(12.73) Cyclophotocoagulation.
+79310101001,239.4,15,"(79.31) Open reduction of fracture with internal fixation(ORIF),humerus."
+EYE014,89.64285714,14,Trabeculectomy ab externo
+43110000001,100.4285714,14,(43.11) Percutaneous endoscopic gastrostomy (PEG)(?????????).
+OOR0056,99.78571429,14,Gastroscope & adrenaline injection.
+35220101001,406.5,14,"(35.22) Replacement of aortic valve,Other."
+68160200001,105.7857143,14,(68.16) Hystero-resection.
+53020101001,183.5714286,14,(53.02) Repair of indirect inguinal hernia.
+118543,306.5714286,14,(85.43) Modified radical mastectomy.
+1108020,81.78571429,14,Endocervical curettage.
+53010101001,171.7857143,14,(53.01) Repair of direct inguinal hernia.
+86040101001,131.9285714,14,(86.04) Incision with drainage of skin and subcutaneous tissue.
+80840101001,67.42857143,14,"(80.84) Local excision of lesion of joint(Other),hand and finger."
+55510300001,317.3571429,14,(55.51) Laparoscopic nephrectomy.
+116909,97.14285714,14,"(69.09) Other dilatation and curettage: Diagnostic D&C, F/C."
+81080101001,290.7142857,14,"(81.08) Lumbar and lumbosacral fusion,posterior technique."
+68600700001,268.0769231,13,"(68.6) Hysterectomy,simple with complete staging for CA ovary."
+32280101001,244.1538462,13,(32.28) Endoscopic excision or destruction of lesion or tissue of lung(VATS).
+PFANE05,247.4615385,13,?????????????????????????? (GA very complicated) ??????????.
+EYE011,118.0769231,13,(14.74) Pars plana vitrectomy with membrane peeling
+41500000001,347.2307692,13,(41.5) Total splenectomy.
+116841,234.2307692,13,(68.4) Total abdominal hysterectomy.
+PF04520000,222.6153846,13,(4523) Fiberoptic sigmoidoscopy.
+49590000001,106.7692308,13,(49.59) Anal sphincterotomy.
+85940101001,198.0769231,13,(85.94) Removal of implant of breast.
+11390000001,88.07692308,13,(11.39) Pterygium excision.
+45620000001,221.3076923,13,"(45.62) Partial resection of small intestine,Other."
+118521,195.6153846,13,"(85.21) Local excision of lesion of breast ( Lumpectomy, Removal of area of fibrosis from breast)."
+51230201001,200.7692308,13,(51.23) Laparoscopic cholecystectomy.
+53000202001,256.8333333,12,(53) Laparoscopic Herniorhaphy.
+ROB0031,634.75,12,"???????????????????????????????????????????????????????? (DRG 9106, SC 9106, UC 9106)"
+OOR0038,96,12,Right & Left heart catheterization.
+86990101001,86.08333333,12,"(86.99) Skin and subcutaneous tissue,Other operations."
+ROB0033,634.75,12,"???????????????????????????????????????????????????????? (DRG 5501, SC 5501, UC 5501)"
+08110101001,60.91666667,12,(8.11) Biopsy of eyelid.
+68600800001,321.75,12,"(68.6) Hysterectomy,radical with LN. dissection."
+DFSGI064,58.83333333,12,Gastroscopy
+110001,231.1666667,12,Bilateral Salpingo-Oophorectomy.
+URO006,72.25,12,(55.93) Change nephrostomy/ureterostomy tube ????????????????? ???? ?????
+ROB003,634.75,12,"(9106,9107,5501) ????????????????????????????????????????????????????????"
+42920000001,91.83333333,12,(42.92) Esophageal dilation.
+40400100001,266.9166667,12,(40.40.A1) Neck dissection.
+81430201001,210.8333333,12,(81.43) Medial meniscectomy with repair of the ACL and the MCL.
+55510301001,317.6666667,12,(55.51) Total nephrectomy (unilateral).
+14740000001,148,12,"(14.74) Mechanical vitrectomy,Other."
+PFANE06,259.0833333,12,?????????????????????????? (GA very complicated) ????????????.
+ROB0032,634.75,12,"???????????????????????????????????????????????????????? (DRG 9107, SC 9107, UC 9107)"
+ROR005,424.4545455,11,????????????? Major 6 ???????
+PF04410400,95.72727273,11,(4414) Closed[endoscopic] biopsy of stomach.
+49040000001,131.7272727,11,"(49.04) Excision of perianal tissue,Other."
+59800200001,214.9090909,11,(59.8) Insertion of ureteral stent.
+79360101001,230.0909091,11,"(79.36) Open reduction of fracture with internal fixation(ORIF),tibia and fibula."
+25100000001,171.2727273,11,(25.1) Excision or destruction of lesion or tissue of tongue.
+79370201001,277.7272727,11,"(79.37) Open reduction of fracture with internal fixation(ORIF),Foot NOS."
+85450101001,263.9090909,11,(85.45) Unilateral radical mastectomy.
+35230101001,424.5454545,11,(35.23) Replacement of mitral valve with tissue graft.
+39650000001,237.2727273,11,(39.65) Extracorporeal membrane oxygenation [ECMO].
+08490101001,92.72727273,11,"(8.49) Repair of Entropion or ectropion,Other."
+PF04542621,374.9090909,11,(4862) Anterior resection of rectum with synchronous colostomy.
+10440000001,90.90909091,11,"(10.44) Free graft to conjunctiva,Other."
+EQ001,343.7272727,11,?????????????????????????????????????.
+53000101001,173.4545455,11,"(53) Unilateral repair of inguinal hernia, not otherwise."
+43990000001,451.2727273,11,"(43.99) Total gastrectomy,Other."
+116842,254.3636364,11,(68.4) Total abdominal laparoscopic hysterectomy: TLH.
+54300101001,170.6363636,11,(54.3) Excision or destruction of lesion of abdominal wall or umbilicus.
+57190100001,131.7,10,(57.19) Cystolithotomy.
+49460000001,109.8,10,(49.46) Excision of hemorrhoids.
+19040300001,265,10,(19.4) Tympanoplasty Type I.
+81790101001,146.6,10,"(81.79) Repair of hand, fingers and wrist,Other."
+55510201001,390.8,10,(55.51) Nephroureterectomy with bladder cuff.
+65760000001,234.1,10,(65.76) Laparoscopic salpingo-oophoroplasty.
+OOR0045,338.7,10,IABP.
+71230000001,115.5,10,(71.23) Marsupialization of Bartholin's gland (cyst).
+79130201001,109.5,10,"(79.13) Closed reduction of fracture with internal fixation,Hand NOS."
+68510300001,284.5,10,(68.51) Laparoscopic Radical Hysterectomy(LRH).
+56990000001,126.2,10,(56.99) Double J insertion.
+37260500001,156,10,(37.26) Cardiac electrophysiologic stimulation and recording.
+79600103001,133,10,(79.6) Debridement/suture level 2.
+46790000001,289.1,10,"(46.79) Repair of intestine,Other."
+08810101001,180.1,10,(8.81) Linear repair of laceration of eyelid or eyebrow.
+PF03010404,102.8,10,(8611) incisional and excisional biopsies:lesion 1-3 cm.
+1145241,102.2222222,9,(45.24) Flexible sigmoidoscopy.
+114863,313.7777778,9,(48.63) Low anterior resection.
+58600101001,82.77777778,9,(58.6) Dilation of urethra(OR).
+45800000001,401.5555556,9,(45.8) Total intra-abdominal colectomy.
+64000101001,133.2222222,9,(64) Circumcision.
+26290102001,296,9,(26.29) Parotidectomy.
+80440601001,65.77777778,9,"(80.44) Release of:ligament,hand and finger."
+62400000001,122.1111111,9,(62.4) Bilateral orchiectomy.
+115732,134.5555556,9,(57.32) Transurethral cystoscopy.
+52520101001,407.3333333,9,(52.52) Distal pancreatectomy.
+OOR0050,96.77777778,9,Esophagoscopy.
+70790000001,165,9,"(70.79) Repair of vagina,Other."
+OOR0039,158.3333333,9,Ablation .
+70330000001,146,9,(70.33) Excision or destruction of lesion of vagina.
+40240000001,152.2222222,9,(40.24) Excision of inguinal lymph node.
+53490101001,190.8888889,9,"(53.49) Umbilical herniorrhaphy,Other."
+46010201001,223.1111111,9,(46.01) Loop ileostomy.
+53030101001,150.2222222,9,(53.03) Repair of direct inguinal hernia with graft or prosthesis.
+30090300001,108.1111111,9,(30.09) Micro DL excision mass.
+62300000001,132.5555556,9,(62.3) Unilateral orchiectomy.
+86590101001,105.5555556,9,(86.59) Suture of skin and subcutaneous tissue of other site.
+85700101001,413.6666667,9,(85.7) Total reconstruction of breast.
+114021,237.3333333,9,(40.21) Excision of deep cervical lymph node.
+URO009,79.77777778,9,(63.73) Vasectomy ????????????????
+80510601001,254.125,8,(80.51) Removal of herniated nucleus pulposus.
+54300201001,127.375,8,(54.3) Debridement of abdominal wall.
+81520201001,199.875,8,(81.52) Bipolar endoprosthesis.
+55030201001,242.625,8,(55.03) Percutaneous nephrostolithotomy(PCNL).
+OOR0041,129.625,8,ASD.
+06390101001,189.25,8,"(6.39) Partial thyroidectomy,Other."
+EYE008,152.5,8,"(11.69) Corneal transplant, Other (including full thickness and partial thicknes keratoplasty)"
+68601000001,198.375,8,"(68.6) Hysterectomy,vagina with AP repair."
+86050109001,106.5,8,(86.05) Incision with removal of foreign body from skin and subcutaneous tissue.
+43890000001,228.25,8,"(43.89) Partial gastrectomy,Other."
+40420000001,365.5,8,"(40.42) Radical neck dissection, bilateral."
+60000101001,57,8,(60) Incision of prostate.
+EYE009,134.625,8,(14.74) Pars plana vitrectomy with endolaser with fluid-air exchange with gas tamponade
+EYE201101,152.5,8,??????????????????????????????????????????????????????????
+1109414,209.25,8,??????????????????????????????
+25020200001,63,8,(25.02) Open biopsy of tongue(OR).
+28000000001,103.75,8,(28.0) Incision & drainage(ENT).
+85220101001,158.375,8,(85.22) Resection of quadrant of breast.
+ORN001,229.125,8,????????????????????????? (Navigator) ENT
+1103014,61,8,Anterior chamber tapping.
+21880101001,222.5,8,"(21.88) Septoplasty,Other."
+85570101001,151.75,8,"(85.57) Hand tendon transposition,Other."
+118154,241.25,8,(81.54) Total knee replacement.
+71300000001,93.375,8,(71.30) Local excision or destruction of vulva and perineum.
+79150101001,183.75,8,"(79.15) Closed reduction of fracture with internal fixation,femur."
+68600600001,229.25,8,"(68.6) Hysterectomy,simple with complete staging for CA corpus."
+70520200001,196.375,8,(70.52) A-P repair (AP)(Gyne).
+39790100001,253.75,8,(39.79) Endovascular aortic repair.
+68590000001,198,7,"(68.59) Vaginal hysterectomy,Other."
+79350200001,287,7,"(79.35) Open reduction of fracture with internal fixation(ORIF),femur."
+27320101001,294.5714286,7,(27.32) Wide excision or destruction of lesion or tissue of bony palate.
+118100,343,7,(81.00) Pedicular screws fixation of spine.
+18390102001,92.14285714,7,(18.39) Excision of external ear (OR).
+81030101001,275.1428571,7,"(81.03) Cervical fusion, posterior technique,Other."
+62410100001,99.28571429,7,(62.41) Bilateral orchidectomy NOS.
+53410101001,167.7142857,7,(53.41) Repair of umbilical hernia with prosthesis.
+EYE010,173.5714286,7,(14.74) Pars plana vitrectomy with endolaser with fluid-air exchange with silicone oil tamponade
+1103060,142.5714286,7,Panendoscopy (ENT).
+40290200001,360.7142857,7,(40.29.A2) Simple lymphadenectomy.
+79740101001,78.57142857,7,(79.74) Closed reduction of dislocation of hand and finger(OR).
+40500100001,322,7,(40.50.A1) Radical (lymph) node dissection NOS.
+34240000001,174,7,(34.24) Pleural biopsy.
+85850101001,454.5714286,7,(85.85) Muscle flap graft to breast.
+34020200001,260,7,"(34.02) VATS to bleb,mass resection."
+35240101001,394.7142857,7,"(35.24) Replacement of Mitral valve,Other."
+82390101001,109.7142857,7,"(82.39) Excision of soft tissue of hand,Other."
+40590000001,284.7142857,7,(40.59) Radical excision of other lymph nodes.
+40110101001,105.2857143,7,(40.11.A1.1) Biopsy of lymphatic structure(Superficial)(OR).
+114576,362.4285714,7,(45.76) Sigmoidectomy.
+DFOBG036,88.57142857,7,OB-Gyn Dilation and curettage for diagnosis
+54510101001,241,7,(54.51) Laparoscopic lysis of peritoneal adhesions.
+1103033,197.2857143,7,Direct laryngoscopy3?.
+11672,86.71428571,7,(67.2) Conization of cervix.
+DFOBG086,233.1428571,7,OB-Gyn Total abdominal hysterectomy + adnexal operation
+36110101001,474.2857143,7,(36.11) Aortocoronary bypass(CABG) of one coronary artery.
+11320000001,92.85714286,7,(11.32) Excision of pterygium with corneal graft.
+36120101001,450,7,(36.12) Aortocoronary bypass(CABG) of two coronary arteries.
+06200201001,192.2857143,7,(6.2) Complete removal of one lobe of thyroid (with removal of isthmus).
+27430101001,60.33333333,6,"(27.43) Excision of lesion or tissue of lip,Other."
+83450201001,141,6,(83.45) Debridement of muscle NOS.
+84110100001,149.1666667,6,(84.11) Amputation of toe.
+34230000001,167.1666667,6,(34.23) Biopsy of chest wall.
+37940000001,166.8333333,6,(37.94) Implantation/replacement of automatic cardioverter/defibrillator.
+79390300001,189.5,6,"(79.39) Open reduction of fracture with internal fixation(ORIF),clavicle."
+80190401001,264.1666667,6,"(80.19) Arthrostomy,Spine."
+85120101001,136,6,(85.12) Open biopsy of breast.
+53900101001,142.1666667,6,"(53.9) Hernia repair,Other."
+44390200001,203.8333333,6,(44.39) Gastrojejunostomy without gastrectomy NOS.
+1148631,333.8333333,6,(48.63) Other anterior resection of rectum.
+115123,211,6,(51.23) Laparoscopic cholecystectomy.
+54230101001,262.8333333,6,(54.23) Biopsy of peritoneum.
+86910101001,160.3333333,6,(86.91) Excision of skin for graft.
+DFPOB007,106.1666667,6,Biopsy of cervix
+URO012,77.83333333,6,(61.30) Excision of genitalia ?????????????????????????????????
+URO014,50,6,(58.60) Dilate urethra ?????????????????
+07800100001,230,6,(7.80) Thymectomy.
+08420101001,113,6,(8.42) Repair of Entropion or ectropion by suture technique.
+46200000001,416.1666667,6,"(46.2) Ileostomy, not otherwise specified."
+EYE040138,126.6666667,6,Blepharoplasty (Lower)
+DF5900009,94.83333333,6,???????????????????????????????????????????
+DFOBG186,208.6666667,6,????????????? 1 OB-Gyn Total abdominal hysterectomy + adnexal operation
+85420101001,257.5,6,(85.42) Bilateral simple mastectomy.
+1168292,258.3333333,6,(68.29) Laparoscopic excision or destruction of lesion or tissue of uterus: Myomectomy.
+85450201001,183.8333333,6,"(85.45) Excision of breast,pectoral muscles and regional lymph nodes."
+78630100001,142,5,"(78.63) Removal of implanted devices from bone,radius and ulnar."
+66620101001,189,5,(66.62) Salpingectomy with removal of tubal pregnancy.
+34510000001,251.4,5,(34.51) Decortication of lung.
+35280301001,427,5,(35.28) Repair of tricuspid valve with replacement:prosthetic.
+08860101001,173.6,5,(8.86) Lower eyelid rhytidectomy.
+78600100001,120.8,5,"(78.6) Removal of implanted devices from bone,unspecified."
+79320201001,177.2,5,"(79.32) Open reduction of fracture with internal fixation(ORIF),Arm NOS."
+PF04632600,299.6,5,(5022) Partial hepatectomy.
+PF04542628,306.6,5,(4863) Other anterior of rectum.
+49600000001,111.6,5,(49.6) Excision of anus.
+ROR022,153.8,5,????????????? Minor 2 ???????
+09401,159,5,E.C.G. (Electrocardiography) ?????? Red Dot.
+PF04642603,182.2,5,(5122) Laparoscopic cholecystectomy.
+EYE007,143,5,(13.19) Intracapsular cataract extraction with anterior vitrectomy with scleral fixated intraocular lens
+53170101001,299.4,5,"(53.17) Bilateral inguinal hernia repair with graft or prosthesis,NOS."
+46510000001,182.4,5,(46.51) Closure of stoma of small intestine.
+49450000001,120,5,(49.45) Ligation of hemorrhoids(OR).
+07220200001,224.6,5,(7.22) Laparoscopic adrenalectomy.
+53120101001,218.8,5,(53.12) Bilateral repair of indirect inguinal hernia.
+53210101001,155,5,(53.21) Unilateral repair of femoral hernia with graft or prosthesis.
+86070201001,98,5,(86.07) Totally implanted port.
+45730100001,266.4,5,(45.73) Ileocolectomy.
+45740000001,359,5,(45.74) Resection of transverse colon.
+54500801001,256.2,5,(54.5) Freeing (lysis)of adhesions of:uterus.
+116821,118.6,5,(68.21) Division of endometrial synechiae (For hysteroscopy).
+11503,313.2,5,(50.3) Lobectomy of liver.
+DF5900003,88.8,5,????????????????????????????????????????????????????
+DFOBG079,211.2,5,OB-Gyn Laparoscopically assisted vaginal hysterectomy + adnexal operation
+114862,345.4,5,(48.62) Anterior resection of rectum with synchronous colostomy.
+116651,251.2,5,(66.51) Total bilateral salpingectomy.
+115022,241.2,5,(50.22) Wedge resection of liver.
+71240000001,117.8,5,(71.24) Excision or other destruction of Bartholin's gland.
+79140101001,80.6,5,"(79.14) Closed reduction of fracture with internal fixation,phalanges of hand."
+71790000001,142,5,"(71.79) Repair of vulva and perineum,A-P repair."
+60150101001,87,5,(60.15) Biopsy of periprostatic tissue.
+79340101001,134,5,"(79.34) Open reduction of fracture with internal fixation(ORIF),phalanges of hand."
+78200500001,184.4,5,"(78.2) Resection/osteotomy,unspecified site."
+65490200001,289.4,5,(65.49) Unilateral Salpingo Oophorectomy with BPND.
+80830101001,80,5,"(80.83) Local excision of lesion of joint(Other),wrist."
+81940000001,203,5,(81.94) Suture of capsule or ligament of ankle and foot.
+79670201001,203.2,5,"(79.67) Debridement of open fracture site,Foot NOS."
+79130101001,73.6,5,"(79.13) Closed reduction of fracture with internal fixation,carpals and metacarpals."
+80440501001,66.8,5,"(80.44) Release of:joint ,hand and finger."
+80940101001,100.6,5,"(80.94) Excision of joint(Other),hand and finger."
+77690000001,77,5,"(77.69) Local excision of lesion or tissue of bone,Other."
+54250101001,294.4,5,(54.25) Peritoneal lavage.
+53610101001,258.2,5,(53.61) Incisional hernia repair with prosthesis.
+86040203001,104,5,(86.04) Incision with drainage of skin and subcutaneous tissue.
+85240101001,145.4,5,(85.24) Excision of ectopic breast tissue.
+55400101001,270.6,5,(55.4) Partial nephrectomy.
+114319,149.2,5,(43.19) Gastrostomy.
+ORN005,324.6,5,??????????????????????????????????????????????????? (NIM) ENT
+110002,277,5,Bilateral Pelvic Lympnode dissection.
+53290101001,144.6,5,"(53.29) Unilateral femoral herniorrhaphy,Other."
+DFOBG179,211.2,5,????????????? 1 OB-Gyn Laparoscopically assisted vaginal hysterectomy + adnexal operation
+DF5900008,97,5,??????????????????????????????????
+DF5900013,101,5,?????????????????????????????????????????????? ??????
+12310000001,72,5,(12.31) Lysis of goniosynechiae.
+80240101001,205.4,5,"(80.24) Arthroscopy,hand and finger."
+79390200001,198.2,5,"(79.39) Open reduction of fracture with internal fixation(ORIF),patella."
+19060000001,239.4,5,(19.6) Revision of tympanoplasty.
+20010000001,98.6,5,(20.01) Myringotomy with tube insertion.
+57710401001,422.4,5,(57.71) Radical cystectomy (female).
+13410000001,85,5,(13.41) Phacoemulsification and aspiration of cataract.
+57600300001,336.8,5,(57.6) Wedge resection of bladder.
+11543.1,109.2,5,(54.3) Debridement.
+86740900001,473.4,5,(86.74) Free flap coverage.
+86690101001,338.8,5,"(86.69) Skin graft to other sites,Other."
+59790000001,147.6,5,"(59.79) Repair of urinary stress incontinence,Other."
+79600102001,82.8,5,(79.6) Debridement/suture level 1.
+78690101001,174,5,"(78.69) Removal of implanted devices from bone,Other."
+OOR0057,82.75,4,"Gastroduodenoscopy & sclerotherapy (laser, heat)."
+PF2012608,75.5,4,(863) Other local excision of lesion of neck skin and subcutaneous tissue.
+65630000001,203,4,(65.63) Laparoscopic removal of both ovaries and tubes at same episode.
+65610300001,331.25,4,(65.61) Parametectomy.
+65890000001,262.25,4,"(65.89) Lysis of adhesions of ovary and fallopian tube,Other."
+PF04463910,178.75,4,(4463) Closure of stoma of small intestine.
+75690203001,326.25,4,(75.69) Repair of:vagina.
+78250500001,288.75,4,"(78.25) Resection/osteotomy,femur."
+68210100001,219,4,(68.21) Lysis of intraluminal uterine adhesions.
+27490101001,181.25,4,"(27.49) Excision of mouth,Other."
+22190000001,112.75,4,"(22.19) Nasal sinus,Endoscopy,Surgical."
+25200000001,308,4,"(25.2) Glossectomy,partial."
+69230000001,159.5,4,(69.23) Vaginal repair of chronic inversion of uterus.
+49030000001,86.5,4,(49.03) Excision of perianal skin tags.
+31720100001,87.5,4,(31.72) Closure of tracheotomy.
+35240201001,425.75,4,(35.24) Repair of mitral valve with replacement:NOS.
+ROR006,496.5,4,????????????? Major 7 ???????
+09412,96,4,(OPD) ????????????????????????????
+85250101001,141.75,4,(85.25) Excision of nipple.
+80820101001,93.75,4,"(80.82) Local excision of lesion of joint(Other),elbow."
+27920101001,63,4,"(27.92) Incision of mouth, unspecified structure."
+DFOBG035,134,4,OB-Gyn Biopsy lesion of uterus
+12990000001,61.75,4,"(12.99) Anterior chamber ,Other operations."
+20010400001,130,4,"(20.01) Myringotomy , with tube insertion(OR)."
+65140000001,197.25,4,"(65.14) Laparoscopic diagnostic procedures on ovaries,Other."
+38340100001,422,4,"(38.34) Resection of vessel with anastomosis,aorta."
+34220000001,210,4,(34.22) Mediastinoscopy + alias.
+34100000001,249.5,4,(34.1) Incision of mediastinum (median sternotomy).
+79390400001,295.25,4,"(79.39) Open reduction of fracture with internal fixation(ORIF),other specified bone."
+80930101001,104.75,4,"(80.93) Excision of joint(Other),wrist."
+81450202001,228.25,4,"(81.45) PCL reconstruction,Repair of the cruciate ligaments."
+13720000001,161.25,4,(13.72) Secondary insertion of intraocular lens prosthesis.
+80880101001,77.75,4,"(80.88) Local excision of lesion of joint(Other),foot and toe."
+86050101001,67.25,4,(86.05) Simple Incision with removal of foreign body from subcutaneous tissue.
+40520000001,291,4,(40.52) Radical excision of periaortic lymph nodes.
+83760101001,178.25,4,"(83.76) Tendon transposition,Other."
+40500000001,288.25,4,"(40.5) Radical excision of lymph nodes,NOS."
+80510201001,235,4,(80.51) Diskectomy(discectomy).
+86050110001,83.5,4,(86.05) Removal of FB from skin and subcutaneous tissue/Complicated(OR).
+86031000001,54.75,4,"(86.3) Surgical excision ??,cyst(??? 1 lesion)."
+86630101001,308.25,4,(86.63) Full-thickness skin graft to other sites.
+86600101001,175,4,"(86.60) Free skin graft, not otherwise specified,split-thickness."
+86280201001,78.75,4,(86.28) Debridement (1000 ???).
+54630101001,115.75,4,"(54.63) Suture of abdominal wall,Other."
+54400101001,300,4,(54.4) Excision or destruction of peritoneal tissue.
+DFOBG052,82.25,4,OB-Gyn LEEP or LLETZ
+DFOBG083,255.75,4,OB-Gyn Radical abdominal hysterectomy + pelvic lymphadenectomy
+118573,536.25,4,"(85.73) Transverse rectus abdominis myocutanwous (TRAM) flap,free."
+117769,68,4,"(77.69) Local excision of lesion or tissue of bone,phalanges(of foot)(of hand)."
+115411,254.75,4,(54.11) Exploratory laparotomy.
+DFOBG183,255.75,4,????????????? 1 OB-Gyn Radical abdominal hysterectomy + pelvic lymphadenectomy
+DF5900019,91.5,4,???????????????????????????????????????????????????????? (IV)
+114709,157,4,(47.09) Appendectomy.
+1146522,268.5,4,(46.52) Closure or take-down of colostomy.
+49910000001,106.75,4,(49.91) Incision of anal septum.
+46130000001,144.5,4,"(46.13) Permanent colostomy, Other."
+53150101001,222.5,4,(53.15) Bilateral repair of indirect inguinal hernia with graft or prosthesis.
+53100101001,311.25,4,"(53.1) Bilateral repair of inguinal hernia, not otherwise."
+EYE110030,57.5,4,????????????????????????????.
+11344,196.5,4,(34.4) Excision or destruction of lesion of chest wall.
+PF03022610,310.75,4,(8541) Unilateral simple mastectomy.
+EYE013,115,4,(14.74) Pars plana vitrectomy with remove silicone oil
+OOR0141,63,4,?????????????????????????????????? (Skin Biopsy).
+09810000001,219.25,4,(9.81) Dacryocystorhinostomy [DCR].
+06390302001,303.75,4,(6.39) Laparoscopic thyroidectomy.
+46390200001,130.25,4,(46.39) Feeding enterostomy.
+03090102001,265.5,4,(3.09) Decompression:Laminotomy.
+URO011,99.25,4,(64.92) Incision biopsy of penis or scrotum ???????????????????????????????????????? ???? ??????????????
+04490000001,165.25,4,(4.49) Peripheral nerve or ganglion decompression or lysis.
+06700101001,168.25,4,(6.7) Excision of thyroglossal duct or tract(SISTRUNK).
+49300100001,103.6666667,3,(49.3) Local excision or destruction of other lesion or tissue of anus.
+49220000001,131.3333333,3,(49.22) Biopsy of perianal tissue.
+04490100001,93.33333333,3,(4.49) Peripheral nerve neurolysis NOS.
+49730000001,141.6666667,3,(49.73) Closure of anal fistula.
+PF04732620,440,3,(526) Total pancreatertomy.
+11064,224.6666667,3,(06.4) Complete thyroidectomy.
+79820101001,238.3333333,3,(79.82) Open reduction of dislocation of elbow.
+79870101001,323.3333333,3,(79.87) Open reduction of dislocation of ankle.
+79390101001,196,3,"(79.39) Open reduction of fracture with internal fixation(ORIF),other specified bone."
+18040101001,65,3,(18.4) Suture of laceration of external ear.
+78650300001,201.6666667,3,"(78.65) Internal fixation device,femur."
+34020000001,367,3,(34.02) Exploratory thoracotomy.
+77750000001,321.6666667,3,"(77.75) Excision of bone for graft,femur."
+77450000001,101.3333333,3,"(77.45) Biopsy of bone,femur."
+77470000001,122.6666667,3,"(77.47) Biopsy of bone,tibia and fibula."
+77590100001,223.3333333,3,(77.59) Resection of hallux valgus joint with insertion of prosthesis.
+1134023,240,3,(34.02) Video Assist Thoracic surgery (V.A.T.S.).
+OOR0148,50,3,??? Sebaceous cyst.
+46320000001,106.6666667,3,(46.32) Percutaneous (endoscopic) jejunostomy [PEJ](?????????).
+10310200001,143.3333333,3,(10.31) Conjunctival mass excision.
+10402,88.33333333,3,???????????????????????????????? 1 ???(EKG ??????????????????????)
+114041,434.3333333,3,"(40.41) Radical neck dissection ,unilateral."
+54000201001,175.3333333,3,(54) Drainage of:abdominal wall.
+47990101001,166.3333333,3,"(47.99) Operations on appendix,Other."
+48630200001,616,3,(48.63) Laparoscopic AP resection.
+77610000001,376.3333333,3,"(77.61) Local excision of lesion or tissue of bone,scapula, clavicle, and thorax."
+18210101001,93.33333333,3,(18.21) Excision of preauricular sinus.
+80920101001,222,3,"(80.92) Excision of joint(Other),elbow."
+82290101001,76.66666667,3,(82.29) Excision of other lesion of soft tissue of hand.
+35280201001,417.6666667,3,(35.28) Repair of tricuspid valve with replacement:NOS.
+35210201001,272.6666667,3,(35.21) Repair of aortic valve with tissue graft (autograft) (heterograft) (homograft).
+26300106001,249,3,(26.3) Parotidectomy.
+80960101001,239.6666667,3,"(80.96) Excision of joint(Other),knee."
+30300000001,326.3333333,3,"(30.3) Laryngectomy,complete."
+30400100001,349.6666667,3,(30.4) Complete [total] laryngectomy with radical neck dissection.
+35240301001,312.6666667,3,(35.24) Repair of mitral valve with replacement:prosthetic(partial)(synthetic).
+81200101001,265,3,(81.2) Arthrodesis of unspecified joint.
+81550101001,218.3333333,3,(81.55) Revision of TKA.
+81490101001,231.6666667,3,"(81.49) Repair of ankle,Other."
+81520101001,150,3,(81.52) Partial hip replacement.
+12790000001,100,3,"(12.79) Glaucoma procedures,Other."
+83750101001,142.3333333,3,(83.75) Tendon transfer or transplantation.
+81460101001,227.6666667,3,"(81.46) Repair of the collateral ligaments,Other."
+82450101001,162.3333333,3,"(82.45) Suture of other tendon of hand,Other."
+81170101001,408.3333333,3,"(81.17) Fusion of foot,Other."
+66010000001,252.6666667,3,(66.01) Salpingotomy.
+65810000001,165,3,(65.81) Laparoscopic lysis of adhesions of ovary and fallopion.
+83730101001,221.6666667,3,(83.73) Reattachment of tendon.
+83320101001,176,3,(83.32) Excision of lesion of muscle.
+13190500001,115,3,(13.19) ECCE with IOL.
+35230201001,344.6666667,3,(35.23) Repair of mitral valve with tissue graft (autograft) (heterograft) (homograft).
+34300000001,321.6666667,3,(34.3) Excision or destruction of lesion or tissue of mediastinum.
+68230400001,187,3,(68.23) Laparoscopic cauterization of endometriosis.
+35220201001,433,3,(35.22) Repair of aortic valve with replacement:NOS.
+DFPOB012,141,3,LEEP or LLETZ
+DFSB002,445.3333333,3,Modified Radical Mastectomy
+114603,227.3333333,3,(46.03) Loop colostomy.
+114651,156.6666667,3,(46.51) Closure of stoma of small intestine.
+PF03022612,313,3,(8543) Unilateral extended simple mastectomy.
+DFSB102,370.3333333,3,????????????? 1 Modified Radical Mastectomy
+DFOBG283,269.3333333,3,????????????? 2 OB-Gyn Radical abdominal hysterectomy + pelvic lymphadenectomy
+41500100001,473.3333333,3,(41.5.A1) Splenectomy NOS.
+PF03020401,171,3,(8512) Open biopsy of breast.
+PF03022600,250,3,(8521) Local excision of lesion of breast.
+59500100001,277,3,(59.5) Burch procedure.
+40530000001,243.3333333,3,(40.53) Radical excision of iliac lymph nodes.
+45510200001,372.3333333,3,(45.51) Resection of small intestine for interposition.
+43910000001,332,3,(43.91) Total gastrectomy with intestinal interposition.
+116822,109.3333333,3,(68.22) Incision or excision of congenital septum of uterus (For hysteroscopy).
+85540101001,290,3,(85.54) Bilateral breast implant.
+85600101001,298.6666667,3,(85.6) Mastopexy.
+86750201001,263.3333333,3,(86.75) Debridement of pedicle or flap graft.
+86030702001,93.66666667,3,(86.3) EAR Excision of keloid.
+85870101001,110,3,"(85.87) Repair or reconstruction of nipple,Other."
+86210201001,98.33333333,3,(86.21) Marsupialization of cyst.
+11573201,51,3,(57.32) Other cystoscopy.
+42410000001,470.3333333,3,(42.41) Partial esophagectomy.
+DFOBG039,264.6666667,3,"OB-Gyn Myomectomy, laparoscopic/open"
+116541,167.6666667,3,(65.41) Laparoscopic unilateral salpingo-oophorectomy.
+118029,208.6666667,3,"(80.29) Arthroscopy, Spine."
+114946,122,3,(49.46) Excision of hemorrhoids.
+DFOBG144,296.6666667,3,????????????? 1 OB-Gyn Total abdominal hysterectomy
+116581,213.3333333,3,(65.81) Laparoscopic salpingo-oophoroplasty.
+116050,316,3,(60.50) Redical prostatectomy.
+DFOBG139,264.6666667,3,"????????????? 1 OB-Gyn Myomectomy, laparoscopic/open"
+40400000001,270,3,"(40.4) Radical neck dissection, not otherwise specified."
+07220000001,475,3,(7.22) Unilateral adrenalectomy.
+06810101001,228.3333333,3,"(6.81) Parathyroidectomy,Complete."
+34040100001,333.6666667,3,(34.04) Chest tube(ICD)(?????????).
+78290501001,175,3,"(78.29) Resection/osteotomy,Other."
+78220500001,216.6666667,3,"(78.22) Resection/osteotomy,humerus."
+PFANE08,159.6666667,3,??????????????????????? (RA) ??????????.
+PFANE09,159.6666667,3,??????????????????????? (RA) ????????????.
+PF04382408,329,3,(5459) Other lysis of peritoneal adhesions.
+53110101001,187.3333333,3,(53.11) Bilateral repair of direct inguinal hernia.
+51030101001,297,3,"(51.03) Cholecystostomy,Other."
+PF04562600,127.6666667,3,(4946) Excision of hemorrhoids.
+PF14632600,243.6666667,3,(5022) ?????????????????? Partial hepatectomy .
+PF04413308,166.6666667,3,(4319) Other gastrostomy.
+PF05070400,55.33333333,3,(6011) Closed biopsy of prostate.
+PF2332601,245,2,(2749) Wide excison of lesion of mouth.
+PF04552200,136,2,(4951) Drainage of perianal abscess.
+04600000001,138,2,(4.6) Transposition of cranial and peripheral nerves.
+PF04810000,57.5,2,(5732) Cystoscopy.
+49020000001,85.5,2,"(49.02) Incision of perianal tissue,Other."
+53590101001,223,2,(53.59) Repair of other hernia of anterior abdominal wall.
+49470000001,103,2,(49.47) Evacuation of thrombosed hemorrhoids.
+46520000001,159.5,2,(46.52) Closure of stoma of large intestine.
+54400701001,274,2,(54.4) Excision of:lesion of:peritoneum.
+54500501001,219,2,(54.5) Freeing(lysis) of adhesions of:pelvic peritoneum.
+54500601001,260,2,(54.5) Freeing (lysis)of adhesions of:peritoneum.
+54240000001,294.5,2,(54.24) Explor-lap to tissue biopsy.
+51040101001,200,2,"(51.04) Cholecystotomy,Other."
+51370102001,441,2,(51.37) Hepaticojejunostomy.
+PF04053908,257.5,2,(5359) Repair of other hernia of anterior abdominal wall.
+PF04522600,398.5,2,(4541) Sigmoidectomy.
+PF04532611,296.5,2,(4573) Right hemicolectomy.
+PF03572200,54.5,2,(370) Pericardiocentesis.
+PF04053900,115,2,(5463) Suture of abdominal wall.
+PF06080404,66,2,(8611) incisional and excisional biopsies: lesion 1-3 cm.
+PF06082600,100.5,2,"(8622) Excisional debridement of wound,infection or burn of upper extremity skin."
+PF13022600,201.5,2,(8521) Local excision of lesion of breast.
+PF13022612,222.5,2,(8543) Unilateral extended simple mastectomy.
+25020100001,242.5,2,(25.02) Wedge biopsy.
+34020600001,150,2,"(34.02) VATS With biopsy of chest wall, pleura, mediastinum, diaphragm."
+78290503001,345,2,"(78.29) Resection/osteotomy,Phalanges (of foot) (of hand)."
+78530400001,159,2,"(78.53) Revision of displaced or broken fixation device,radius and ulna."
+79330201001,142,2,"(79.33) Open reduction of fracture with internal fixation(ORIF),Hand NOS."
+79350101001,292.5,2,"(79.35) Open reduction of fracture with internal fixation(ORIF),neck of femur."
+78270500001,252.5,2,"(78.27) Resection/osteotomy,tibia and fibula."
+27230105001,41,2,(27.23) Biopsy of lip(OR).
+27720101001,68,2,(27.72) Excision of uvula.
+25090000001,260,2,"(25.09) Tongue,Other diagnostic procedures on."
+77790000001,215,2,"(77.79) Excision of bone for graft,Other."
+77490300001,90,2,"(77.49) Biopsy of bone,Vertebrae."
+79160101001,292.5,2,"(79.16) Closed reduction of fracture with internal fixation,tibia and fibula."
+22110000001,74,2,(22.11) Closed [endoscopic] [needle] biopsy of nasal sinus.
+79030201001,98.5,2,"(79.03) Closed reduction of fracture without internal fixation,Hand NOS."
+78670100001,179,2,"(78.67) Removal of implanted devices from bone,tibia and fibula."
+78690104001,191,2,"(78.69) Removal of implanted devices from bone,Vertebrae."
+79300101001,167.5,2,"(79.3) Open reduction of fracture with internal fixation(ORIF),unspecified site."
+78590203001,165,2,"(78.59) Internal fixation of bone (prophylactic),Phalanges (of foot) (of hand)."
+78590401001,258.5,2,"(78.59) Revision of displaced or broken fixation device,Other."
+78680200001,372.5,2,"(78.68) Removal of External fixator device (invasive),tarsals and metatarsals."
+03010000001,196.5,2,(3.01) Removal of foreign body from spinal canal.
+02030100001,148,2,(2.03) Repair of skull with flap.
+00840000001,206.5,2,"(0.84) Revision of total knee replacement,tibial insert(liner)."
+06890101001,201,2,"(6.89) Parathyroidectomy,Other."
+07620000001,166,2,"(7.62) Partial excision of pituitary gland,transphenoidal approach."
+49510000001,80,2,(49.51) Left lateral anal sphincterotomy.
+57840000001,285,2,(57.84) Repair of other fistula of bladder.
+57890000001,493.5,2,"(57.89) Repair of bladder,Other."
+57600100001,309,2,(57.6) Excision of bladder dome.
+45940100001,187.5,2,(45.94) Laparoscopic colostomy.
+45720000001,392.5,2,(45.72) Cecectomy.
+57490100001,143.5,2,(57.49) Endoscopic resection of bladder lesion.
+55510401001,432.5,2,(55.51) Laparoscopic nephroureterectomy.
+114573,296.5,2,(45.73) Right hemicolectomy.
+116595,245.5,2,(65.95) Laparoscopic lysis adhesion of ovary and fallopian tube.
+116816,173,2,(68.16) Close biopsy of uterus (For hysteroscopy).
+DFOBG044,255,2,OB-Gyn Total abdominal hysterectomy
+115681,102.5,2,(56.81) Lysis of intraluminal uterine adhesions (For hysteroscopy).
+118541,221,2,(85.41) Unilateral simple mastectomy.
+DFOBG017,231.5,2,"OB-Gyn Salpingo- oophrectomy, bilateral, laparoscopic"
+86700101001,365,2,"(86.7) Pedicle or flap graft, not otherwise specified."
+86270101001,97.5,2,"(86.27) Debridement of nail, nail bed, or nail fold(1-5 ????)."
+86400101001,280,2,(86.4) Radical excision of skin lesion.
+DFOBG033,122.5,2,OB-Gyn Diagnostic hysteroscopy
+86830301001,440,2,(86.83) Reduction of adipose tissue of:abdominal wall (pendulous).
+116525,188,2,(65.25) Other laparoscopic local excision or destruction of ovary : cauterization of endometriosis.
+86280202001,140.5,2,(86.28) Debridement (500 ???).
+85190101001,120,2,"(85.19) Breast,Other diagnostic procedures."
+86050201001,199.5,2,(86.05) Removal of tissue expander(s) from skin or soft tissue.
+86090101001,90,2,"(86.09) Incision of skin and subcutaneous tissue,escharotomy."
+86010500001,92,2,"(86.01) (OR???-OPD-bedside)Incision and drainage,large."
+37940201001,475,2,(37.94) Techniques:lateral thoracotomy..
+63200000001,135,2,(63.20) Excision of cyst of epididymis.
+61200000001,120,2,(61.2) Hydrocelectomy of tunica vaginalis.
+62300100001,131,2,(62.3) Orchidectomy (with epididymectomy).
+43600200001,303,2,(43.6) Distal gastrectomy.
+45790200001,462.5,2,(45.79) Laparoscopic total colectomy.
+45910000001,277.5,2,(45.91) Small-to-small intestinal anastomosis.
+85860101001,371.5,2,(85.86) Transposition of nipple.
+85530101001,446,2,(85.53) Unilateral breast implant.
+86840101001,126.5,2,(86.84) Relaxation of scar or web contracture of skin.
+86030301001,66,2,(86.3) Destruction of skin by:cryosurgery.
+86830101001,535.5,2,(86.83) Abdominoplasty.
+86010302001,140,2,"(86.01) Aspiration of:hematoma of nail, skin, or subcutaneous tissue(OR)."
+85500101001,350,2,"(85.5) Augmentation mammoplasty,not otherwise specified."
+118332,379.5,2,(83.32) Excision of lesion of muscle.
+11686,273,2,(68.6) Radical abdominal hysterectomy.
+11690000001,216.5,2,"(11.69) Corneal transplant,Other."
+85210301001,102.5,2,(85.21) Removal of area of fibrosis from breast.
+85240102001,96,2,"(85.24) Excision of lesion of breast( bedside,OR ????)."
+85240201001,75,2,(85.24) Excision of accessory nipple.
+85340201001,229,2,(85.34) Removal of breast tissue with preservation of skin and nipple.
+54640101001,112.5,2,(54.64) Suture of peritoneum.
+55110101001,230,2,(55.11) Pyelotomy.
+40290000001,234.5,2,(40.29) Simple excision of other lymphatic structure.
+59710000001,157.5,2,(59.71) Levator muscle operation for urethrovesical suspension.
+112502,62.5,2,(25.02) Open biopsy of tongue.
+112742,267.5,2,(27.42) Wide excision of lesion of lip.
+114011,55,2,(40.11) Biopsy of lymphatic structure.
+11311,132.5,2,(31.1) Temporary tracheostomy.
+11485,470,2,(48.5) Abdominoperineal resection of rectum.
+PF03024410,272.5,2,(8553) Unilateral breast implant.
+11526,457.5,2,(52.6) Total pancreatectomy.
+DFOBG0731,275.5,2,OB-Gyn Pelvic lymphadenectomy(Bilateral Pelvic Lympnode dissection)
+EMG0336116,131,2,Nerve / Motor point block ????????????? (????????? Electrostimulation)
+EYE040139,95,2,Brow lift
+DFOBG286,227,2,????????????? 2 OB-Gyn Total abdominal hysterectomy + adnexal operation
+DFOBG273,275.5,2,????????????? 2 OB-Gyn Pelvic lymphadenectomy
+DFOBG279,287.5,2,????????????? 2 OB-Gyn Laparoscopically assisted vaginal hysterectomy + adnexal operation
+DFPCV007,175,2,Temporary pacemaker
+21690101001,130,2,"(21.69) Turbinectomy,Other."
+85420201001,230,2,(85.42) Bilateral complete mastectomy.
+34270000001,363,2,(34.27) Biopsy of diaphragm.
+66190000001,192.5,2,"(66.19) Fallopian tubes,Other diagnostic procedures."
+21890101001,92.5,2,"(21.89) Repair and plastic operations on nose,Other."
+22090000001,108,2,"(22.9) Nasal sinus,Other operations."
+83130101001,172.5,2,"(83.13) Tenotomy,Other."
+82560101001,157.5,2,"(82.56.) Hand tendon transfer or transplantation,Other."
+83090101001,110,2,"(83.09) Incision of soft tissue,Other."
+81800101001,264,2,(81.8) Total shoulder replacement.
+82440101001,160.5,2,"(82.44) Suture of flexor tendon of hand,Other."
+84080000001,211.5,2,(84.08) Disarticulation of shoulder.
+84150100001,185,2,"(84.15) Amputation below knee,Other."
+81420201001,190,2,"(81.42) Medial meniscectomy, MCL repair,tendon advancement,and pes anserinus transfer."
+18210301001,75,2,(18.21) Preauricular cyst & sinus excision(OR).
+29020101001,182.5,2,(29.2) Excision of branchial cleft cyst or vestige.
+31450000001,121,2,(31.45) Open biopsy of larynx or trachea.
+70800000001,150,2,(70.80) Obliteration of vaginal vault.
+69190000001,288.5,2,(69.19) Excision or destruction of uterus and supporting structure.
+77690200001,70,2,"(77.69) Local excision of lesion or tissue of bone,Phalanges (of foot) (of hand)."
+35270201001,452.5,2,(35.27) Repair of tricuspid valve with tissue graft(autograft)(heterograft)(homograft).
+35710201001,286,2,(35.71) Repair atrial septum.
+27000201001,132.5,2,(27) Drainage of:facial region (abscess).
+80980101001,197.5,2,"(80.98) Excision of joint(Other),foot and toe."
+81000101001,283.5,2,"(81) Spinal fusion, not otherwise specified."
+80910101001,180,2,"(80.91) Excision of joint(Other),shoulder."
+80600201001,180,2,(80.6) Excision of meniscus of knee.
+29020201001,188.5,2,(29.2) Branchial cleft cyst excision.
+82350201001,172,2,(82.35) Release of Dupuytren's contracture.
+80810101001,103,2,"(80.81) Local excision of lesion of joint(Other),shoulder."
+80420501001,157.5,2,"(80.42) Release of:joint ,elbow."
+80110201001,217.5,2,"(80.11) Arthrostomy,shoulder."
+80120101001,285,2,"(80.12) Arthrotomy,Other,elbow."
+77650000001,252.5,2,"(77.65) Local excision of lesion or tissue of bone,femur."
+76310000001,436,2,(76.31 ) Partial mandibulectomy.
+PF03060400,231.5,2,(4011) Biopsy of axillary lymph node.
+10901,157.5,2,????????/??????????????????????????????
+44390101001,267.5,2,(44.39) Bypass:gastroduodenostomy.
+48320000001,126,2,"(48.32) Electrocoagulation of rectal lesion or tissue,Other."
+48690000001,234.5,2,"(48.69) Resection of rectum,Other."
+46850400001,115,2,"(46.85) Dilation of intestine,That through rectum or colostomy."
+44630000001,120,2,(44.63) Closure of other gastric fistula.
+44990000001,202.5,2,"(44.99) Stomach,Other operation."
+53590401001,192.5,2,(53.59) Repair of hernia:spigelian.
+53800102001,163,2,"(53.8) Repair of diaphragmatic hernia ,Includes:hernioplasty."
+56330400001,100,2,(56.33) Ureteroscopy with biopsy.
+54250201001,187.5,2,(54.25) Diagnostic peritoneal lavage(OR).
+54400501001,280,2,(54.4) Excision of:lesion of: mesentery.
+48260000001,185,2,(48.26) Biopsy of perirectal tissue.
+114024,210,2,(40.24) Excision of inguinal lymph node.
+11430000001,276.5,2,(11.43) Cryotherapy of corneal lesion.
+113422,280,2,(34.22) Mediastinoscope.
+ORN007,300,2,??????????????????????????????????????????????????? (NIM) Neurosurgery
+PF03010403,76,2,(8611) incisional and excisional biopsies: lesion<1 cm.
+1134022,191,2,(34.02) Thoracotomy.
+113421,175,2,(34.21) V.A.T.S. (Video Assisted Thoracic Surgery).
+OOR0147,68,2,??????? .
+54610101001,120,2,(54.61) Reclosure of postoperative disruption of abdominal wall.
+77710000001,383,2,"(77.71) Excision of bone for graft,scapula, clavicle, and thorax [ribs and sternum)."
+71500000001,514,2,(71.50) Radical vulvectomy.
+77600000001,90,2,"(77.6) Local excision of lesion or tissue of bone,unspecified site."
+78610300001,144.5,2,"(78.61) Removal of Internal fixation device,scapula, clavicle, and ribs and sternum."
+78620100001,217.5,2,"(78.62) Removal of implanted devices from bone,humerus."
+78650100001,175,2,"(78.65) Removal of implanted devices from bone,femur."
+78660100001,100,2,"(78.66) Removal of implanted devices from bone,patella."
+77280000001,326.5,2,"(77.28) Wedge osteotomy,tarsals and metatarsals."
+34020100001,165,2,(34.02) VATS to lung biopsy.
+34020400001,182.5,2,(34.02) VATS to talc pleurodesis.
+34020500001,161.5,2,(34.02) Exploratory thoracotomy to stop bleeding.
+81050101001,273.5,2,"(81.05) Dorsal and dorsolumbar fusion, posterior technique."
+81060101001,301,2,"(81.06) Lumbar and lumbosacral fusion,anterior technique."
+81070101001,347.5,2,"(81.07) Lumbar and lumbosacral fusion,lateral transverse process technique."
+21320101001,85,2,(21.32) Local excision or destruction of other lesion of nose.
+19520000001,348.5,2,(19.52) Tympanoplasty Type II.
+79670401001,207.5,2,"(79.67) Debridement of compound fracture,Foot NOS."
+18390302001,68,2,"(18.39) Excision of external ear,Other(OR)."
+79810101001,191,2,(79.81) Open reduction of dislocation of shoulder.
+79370101001,218,2,"(79.37) Open reduction of fracture with internal fixation(ORIF),tarsals and metatarsals."
+80480601001,184,2,"(80.48) Release of:ligament ,foot and toe."
+80340101001,121.5,2,"(80.34) Biopsy of joint structure,hand and finger."
+PF04801000,58.5,2,(598) Insertion of ureteral stent.
+ROR009,563.5,2,????????????? Major 9 ???????
+48820101001,163,2,(48.82) Excision of perirectal tissue.
+48930000001,148,2,(48.93) Repair of perirectal fistula.
+PF14542621,455.5,2,(4862) ?????????????????? Anterior resection of rectum with synchronous colostomy.
+PF13062600,205,2,(4023) Excision of axillary lymph node.
+PF04542640,470,2,(485) Abdominoperineal resection of rectum.
+PF04563000,87,1,(4945) Ligation of hemorrhoids.
+SKIN600050,79,1,?????????????????????????????????? (??????)
+00710000001,220,1,"(0.71) Revision of hip replacement,acetabular component."
+03590300001,143,1,(3.59) Repair of:spinal cord NOS.
+03600000001,140,1,(3.6) Lysis of adhesions of spinal cord and nerve roots.
+03710101001,340,1,(3.71) Spinal subarachnoid-peritoneal shunt.
+48730000001,130,1,(48.73) Closure of other rectal fistula.
+48750000001,190,1,(48.75) Abdominal proctopexy.
+48760100001,205,1,(48.76) Delorme repair of prolapsed rectum.
+48790000001,150,1,"(48.79) Repair of rectum,Other."
+09020000001,115,1,"(9.20) Excision of lacrimal gland, not otherwise specified."
+09410101001,50,1,(9.41) Probing of lacrimal punctum.
+09413,45,1,(OPD) ?????????????????????????????????????
+08320101001,135,1,(8.32) Repair of blepharoptosis by frontalis muscle technique with fascial sling.
+49490000001,85,1,"(49.49) Hemorrhoid,Other procedures."
+49710000001,130,1,(49.71) Suture of laceration of anus.
+ROR008,600,1,????????????? Major 8 ???????
+ROR023,155,1,????????????? Minor 3 ???????
+ROB004,613,1,"(9106,9107) ??????????????????????????????????????????????????????????????"
+ROB0041,613,1,"?????????????????????????????????????????????????????????????? (DRG 9106, SC 9106, UC 9106)"
+ROB0042,613,1,"?????????????????????????????????????????????????????????????? (DRG 9107, SC 9107, UC 9107)"
+08910101001,140,1,(8.91) Electrosurgical epilation of eyelid.
+08990101001,120,1,"(8.99) Eyelids,Operations on eyelids,Other."
+06090401001,150,1,(6.09) Exploration:neck by incision.
+06200301001,173,1,(6.2) Hemithyroidectomy.
+PF14732620,355,1,(526) ?????????????????? Total pancreatertomy.
+05810000001,155,1,(5.81) Repair of sympathetic nerve or ganglion.
+52400401001,280,1,(52.4) Pancreaticocystojejunostomy.
+44410000001,105,1,(44.41) Suture of gastric ulcer site.
+49930100001,110,1,(49.93) Removal of:foreign body from anus with incision.
+49950000001,308,1,(49.95) Control of (postoperative) hemorrhage of anus.
+53130101001,230,1,"(53.13) Bilateral repair of inguinal hernia, one direct and one indirect."
+52590101001,613,1,"(52.59) Partial pancreatectomy,Other."
+52600101001,470,1,(52.6) Total pancreatectomy.
+PF04463500,417,1,(4591) Small-to-small insestinal anastomosis.
+PF04112600,380,1,(4024) excision of inguinal lymph node.
+PF04390400,151,1,(4224) Closed[endoscopic] biopsy of esophagus.
+PF04410000,75,1,(4413) Fiberoptic gastroscopy.
+PF04411001,125,1,(9607) Insertion of other gastric tube.
+06310101001,137,1,(6.31) Excision of lesion of thyroid.
+PFANE10,82,1,????????????????????? ????????????? (LA with MAC) ????????.
+PF2503309,210,1,(3129) Other permanent tracheostomy.
+PF06082602,102,1,"(8627) Debridement of nail,nail bed or nailfold thumb or fingers."
+PF09102100,65,1,(400) Incision of lymph node(s).
+PF03062600,472,1,(4023) Excision of axillary lymph node.
+PF03062603,350,1,(4051) Radical excision of axillary lymph nodes.
+PF03558900,160,1,(9961) Atrial cardioversion.
+PF03752602,240,1,(324) Lobectomy of lung.
+PF04000000,175,1,(5421) Laparoscopy.
+PF04002100,417,1,(5411) Exploratory laparotomy.
+46850300001,90,1,(46.85) Endoscopic dilation (balloon) of large intestine.
+1103026,75,1,Anterior chamber irrigation+Fungizone injection.
+1103039,100,1,"Excision of external ear,Other(OPD,bedside)."
+1103067,70,1,Pterygium excision with conjunctival graft.
+10805,490,1,???????????????????????????????.
+10806,490,1,????????????????????????????? NIM ECLIPSE
+PF05698101,60,1,(0391) Injection of other agent into spinal canal.
+PF06080402,58,1,(8611) punch biopsy
+78140200001,102,1,"(78.14) Minifixator with pins/wires/screws into bone,carpals and metacarpals."
+78180100001,327,1,"(78.18) Application of external fixation device,tarsals and metatarsals."
+78190201001,52,1,"(78.19) Minifixator with pins/wires/screws into bone,Other."
+78190203001,115,1,"(78.19) Minifixator with pins/wires/screws into bone,Phalanges(of foot)(of hand)."
+78240500001,205,1,"(78.24) Resection/osteotomy,carpals and metacarpals."
+78290404001,332,1,"(78.29) Percutaneous epiphysiodesis,Vertebrae."
+78410200001,415,1,"(78.41) Bone,Other operation on bone NEC,scapula, clavicle, and thorax."
+78500100001,115,1,(78.5) Internal fixation of bone without fracture reduction.
+78090102001,225,1,"(78.09) Bone graft,Pelvic bones."
+77490000001,180,1,"(77.49) Biopsy of bone,Other."
+79360201001,120,1,"(79.36) Open reduction of fracture with internal fixation(ORIF),Leg NOS."
+27000601001,131,1,(27) Intraoral incision & Drain(I/D)-??????????????.
+25590300001,192,1,(25.59) Graft of mucosa or skin to tongue.
+25930000001,50,1,(25.93) Lysis of adhesions of tongue.
+26290101001,135,1,"(26.29) Excision of salivary gland lesion,Other."
+78090403001,120,1,"(78.09) Bone graft with debridement of graft site,Phalanges (of foot) (of hand)."
+33280101001,170,1,(33.28) Open biopsy of lung.
+34010000001,70,1,(34.01) Incision of chest wall.
+79190101001,70,1,"(79.19) Closed reduction of fracture with internal fixation,other specified bone."
+79220101001,145,1,"(79.22) Open reduction of fracture without internal fixation,radius and ulna."
+79260101001,210,1,"(79.26) Open reduction of fracture without internal fixation,tibia and fibula."
+22520000001,173,1,(22.52) Sphenoidotomy (endoscopic).
+77890204001,477,1,"(77.89) Condylectomy,Vertebrae."
+78050100001,185,1,"(78.05) Bone graft,femur."
+79860101001,410,1,(79.86.) Open reduction of dislocation of knee.
+78950400001,440,1,"(78.95) Insertion of:totally implanted device (invasive),femur."
+79030101001,52,1,(79.03) Closed reduction of fracture without internal fixation Carpals and metacarpals.
+79040101001,60,1,"(79.04) Closed reduction of fracture without internal fixation,Phalanges of hand."
+79100101001,145,1,(79.05) Closed reduction of fracture without internal fixation Femur.
+79120101001,120,1,"(79.12) Closed reduction of fracture with internal fixation,radius and ulna."
+34090100001,110,1,(34.09) Creation of pleural window for drainage.
+34210000001,165,1,(34.21) (VATs)Transpleural thoracoscopy.
+79970101001,125,1,"(79.97) Unspecified operation on bone injury,tarsals and metatarsals."
+80050101001,121,1,(80.05) Remove THA.
+80090201001,155,1,"(80.09) Arthrotomy for removal of prosthesis,Spine."
+80110101001,225,1,"(80.11) Arthrotomy,Other,shoulder."
+79680101001,150,1,"(79.68) Debridement of open fracture site,phalanges of foot."
+18790201001,175,1,(18.79) Otoplasty NOS.
+19090300001,320,1,(19.9) Obliteration of tympanomastoid cavity.
+16090000001,100,1,"(16.09) Orbitotomy,Other."
+80430501001,160,1,"(80.43) Release of:joint ,wrist."
+79710101001,127,1,(79.71) Closed reduction of dislocation of shoulder(OR).
+79730101001,255,1,(79.73) Closed reduction of dislocation of wrist(OR).
+79770101001,411,1,(79.77) Closed reduction of dislocation of ankle(OR).
+79590201001,180,1,"(79.59) Open reduction with or without internal fixation,other specified bone."
+79600105001,177,1,(79.60.) Debridement/suture level 6.
+79630201001,196,1,"(79.63) Debridement of open fracture site,Hand NOS."
+79880101001,85,1,(79.88) Open reduction of dislocation of foot and toe.
+80370201001,110,1,"(80.37) Aspiration biopsy,ankle."
+80380101001,345,1,"(80.38) Biopsy of joint structure,foot and toe."
+80390201001,72,1,"(80.39) Biopsy of joint structure,Spine."
+79640101001,95,1,"(79.64) Debridement of open fracture site,phalanges of hand."
+79660101001,165,1,"(79.66) Debridement of open fracture site,tibia and fibula."
+79380101001,290,1,"(79.38) Open reduction of fracture with internal fixation(ORIF),phalanges of foot."
+79550201001,135,1,"(79.55) Open reduction with or without internal fixation,femur."
+80420601001,172,1,"(80.42) Release of:ligament ,elbow."
+78090104001,155,1,"(78.09) Bone graft,Vertebrae."
+78550100001,293,1,"(78.55) Internal fixation of bone without fracture reduction,femur."
+22620300001,600,1,"(22.62) Maxillectomy, total."
+24050100001,360,1,(24.5) Alveolectomy (interradicular) (intraseptal) (with graft or implant).
+34030000001,105,1,(34.03) Reopening of recent thoracotomy site.
+80440401001,110,1,"(80.44) Release of:adherent or constrictive joint capsule,hand and finger."
+80460501001,95,1,"(80.46) Release of:joint ,knee."
+80460601001,167,1,"(80.46) Release of:ligament ,knee."
+71710000001,210,1,(71.71) Suture of laceration of vulva or perineum.
+77640000001,55,1,"(77.64) Local excision of lesion or tissue of bone,carpals and metacarpals."
+77680000001,155,1,"(77.68) Local excision of lesion or tissue of bone,tarsals and metatarsals."
+76950000001,80,1,"(76.95) Manipulation of temporomandibular joint,Other."
+80410601001,679,1,"(80.41) Release of:ligament ,shoulder."
+80290101001,135,1,"(80.29) Arthroscopy,other specified sites."
+80120201001,140,1,"(80.12) Arthrostomy,elbow."
+80730101001,138,1,"(80.73) Synovectomy,wrist."
+70920200001,271,1,(70.92) Repair of vaginal enterocele.
+69220200001,155,1,(69.22) Manchester operation.
+71790100001,290,1,(71.79) Repair of old obstetric laceration of vulva or perineum.
+75690202001,290,1,(75.69) Repair of:perineum.
+78660300001,192,1,"(78.66) Internal fixation device,patella."
+77120100001,130,1,"(77.12) Incision of bone without division(Other),humerus."
+77290202001,240,1,"(77.29) Osteoarthrotomy,Phalanges (of foot) (of hand)."
+77400000001,107,1,"(77.4) Biopsy of bone,unspecified site."
+18291001001,70,1,(18.29) Partial excision of ear.
+80150101001,175,1,"(80.15) Arthrotomy,Other,hip."
+80160101001,245,1,"(80.16) Arthrotomy,Other,knee."
+80170101001,327,1,"(80.17) Arthrotomy ,Other,ankle."
+80180101001,190,1,"(80.18) Arthrotomy,Other,foot and toe."
+81120201001,230,1,(81.12) Talus to calcaneus and calcaneus to cuboid and navicular.
+80410101001,225,1,"(80.41) Division of joint capsule,ligament or cartilage,shoulder."
+80410501001,225,1,"(80.41) Release of:joint ,shoulder."
+16590000001,220,1,"(16.59) Exenteration of orbit ,Other."
+18060201001,242,1,(18.6) Canaloplasty of external auditory meatus.
+81160101001,240,1,(81.16) Metatarsophalangeal fusion.
+20410000001,280,1,(20.41) Mastoidectomy simple (antromy).
+21010301001,55,1,(21.1) Incision of skin of nose (<2 cm).
+21010500001,130,1,(21.1) Lateral rhinotomy.
+21220102001,110,1,(21.22) Biopsy of nose(OR).
+21620101001,65,1,(21.62) Reduce Fracture of the turbinates.
+37000103001,200,1,(37) Pericardial aspiration /drainage(??????????4423).
+69950000001,180,1,(69.95) Incision of cervix.
+70120100001,85,1,(70.12) Drainage abscess/collection from vagina/uterus.
+31720000001,75,1,(31.72) Closure of external fistula of trachea.
+31790000001,215,1,"(31.79) Repair and plastic operations on trachea,Other."
+33100101001,112,1,(33.1) Incision of lung.
+31010100001,71,1,(31.1) Tracheotomy for assistance in breathing.
+31290000001,55,1,"(31.29) Permanent tracheostomy,Other."
+70520000001,125,1,(70.52) Repair of rectocele.
+68600100001,380,1,(68.6) Modified radical hysterectomy.
+68800000001,532,1,(68.8) Pelvic evisceration.
+68510000001,312,1,(68.51) Laparoscopically assisted vaginal hysterectomy (LAVH).
+31480000001,90,1,"(31.48) Larynx,Other diagnostic procedures."
+36030101001,735,1,(36.03) Open chest coronary artery angioplasty.
+36150101001,301,1,(36.15) Single internal mammary-coronary artery bypass.
+36150301001,420,1,(36.15) Anastomosis (single):thoracic artery to coronary arter.
+80590101001,285,1,"(80.59) Destruction of intervertebral disc,Other."
+30090100001,107,1,(30.09) Excision or destruction of lesion or tissue of larynx.
+80970101001,250,1,"(80.97) Excision of joint(Other),ankle."
+18060500001,272,1,(18.6) EAR Canaloplasty.
+66790300001,315,1,(66.79) Salpingoplasty.
+35390201001,605,1,(35.39) Repair of sinus of Valsalva(aneurysm).
+70130000001,95,1,(70.13) Lysis of intraluminal adhesions of vagina.
+70510000001,150,1,(70.51) Repair of cystocele.
+80760101001,120,1,"(80.76) Synovectomy,knee**."
+80770101001,140,1,"(80.77) Synovectomy,ankle."
+81830201001,155,1,(81.83) Revision of arthroplasty of shoulder.
+81850101001,104,1,"(81.85) Repair of elbow,Other."
+82350101001,118,1,"(82.35) Fasciectomy of hand,Other."
+81000201001,305,1,(81) Harrington rod fixation for fracture spine.
+80870101001,190,1,"(80.87) Local excision of lesion of joint(Other),ankle."
+80490201001,165,1,"(80.49) Division of joint capsule, ligament, or cartilage,Spine."
+81810101001,266,1,(81.81) Partial shoulder replacement.
+81830101001,290,1,"(81.83) Repair of shoulder,Other."
+82530101001,126,1,(82.53) Reattachment of tendon of hand.
+82690101001,131,1,"(82.69) Reconstruction of thumb,Other."
+83010101001,175,1,(83.01) Exploration of tendon sheath.
+83030201001,226,1,(83.03) Removal of calcareous deposit of bursa.
+83790101001,392,1,"(83.79) Muscle transposition,Other."
+83110101001,175,1,(83.11) Achillotenotomy.
+84120600001,220,1,"(84.12) Transmetatarsal amputation (amputation of the forefoot, including all the toes)."
+81530301001,315,1,"(81.53) Revision of hip replacement,Total(THA)(THR)."
+81260101001,195,1,(81.26) Metacarpocarpal fusion.
+81270101001,150,1,(81.27) Metacarpophalangeal fusion.
+81280101001,370,1,(81.28) Interphalangeal fusion.
+82410101001,124,1,(82.41) Suture of tendon sheath of hand.
+81710101001,260,1,(81.71) Arthroplasty of metacarpophalangeal and interphalangeal joint with implant.
+81740101001,275,1,(81.74) Arthroplasty of carpocarpal or carpometacarpal joint with implant.
+13690000001,119,1,"(13.69) Cataract extraction,Other."
+13900000001,75,1,"(13.9) Operations on lens,Other."
+12301,75,1,????????????/??????? ??? Set
+12307,116,1,???????? IM (????????????????????)
+81430101001,180,1,(81.43) Triad knee repair.
+83880401001,255,1,(83.88) Tenodesis.
+84050200001,248,1,(84.05) Forearm amputation.
+84070200001,275,1,(84.07) Upper arm amputation.
+70770000007,240,1,(70.77) Vaginal suspension and fixation(colpopexy).
+18290902001,93,1,(18.29) Excision of:preauricular remnant [appendage](OR).
+28020000001,122,1,(28.2) Tonsillectomy without adenoidectomy.
+28030000001,105,1,(28.3) Tonsillectomy with adenoidectomy.
+28110000001,62,1,(28.11) Biopsy of tonsils and adenoids.
+84170100001,144,1,(84.17) Amputation above knee.
+13300000001,107,1,(13.3) Extracapsular extraction of lens by simple aspiration.
+13420000001,180,1,(13.42) Mechanical phacofragmentation and aspiration of cataract by posterior route.
+39220200001,394,1,(39.22) Bypass (arterial):aorta to subclavian and carotid.
+39220300001,735,1,(39.22) Bypass (arterial):carotid to subclavian.
+66990000001,169,1,"(66.99) Fallopian tubes,Other operations."
+67200000001,115,1,(67.20) Conization Of Cervix.
+67390000001,90,1,"(67.33) Excision or destruction of lesion or tissue of cervix,Other."
+35220301001,395,1,(35.22) Repair of aortic valve with replacement:prosthetic(partial)(synthetic)(total).
+34590100001,175,1,(34.59) Excision of pleural lesion.
+34710000001,110,1,(34.71) Suture of laceration of chest wall.
+67400100001,180,1,(67.4) Cervicectomy with synchronous colporrhaphy.
+65510000001,182,1,(65.51) Bilateral oophorectomy.
+65530000001,240,1,(65.53) Laparoscopic removal of both ovaries at same operation.
+70610000001,135,1,(70.61) Vaginal construction.
+70710000001,115,1,(70.71) Suture of laceration of vagina.
+39640100001,390,1,(39.64) Temporary pacemaker used during cardiac surgery).
+39710000001,290,1,(39.71) Implantation of graft in abdominal aorta.
+39980200001,160,1,(39.98) Control of postoperative hemorrhage NOS.
+12810100001,80,1,(12.81) Suture of sclera with synchronous repair of conjunctiva.
+12990200001,45,1,(12.99) Anterior chamber washing.
+37960000001,101,1,(37.96) Implantation of automatic cardioverter/defibrillator pulse generator.
+38020103001,180,1,"(38.02) Incision of vessel,Jugular vein (external) (internal)."
+38070306001,627,1,"(38.07) Thrombectomy,Vena cava (inferior)."
+38150101001,670,1,"(38.15) Endarterectomy,other thoracic vessels."
+38360106001,245,1,"(38.36) Resection of vessel with anastomosis,Mesenteric."
+38860405001,455,1,"(38.86) Ligation of blood vessel,Iliac(abdominal arteries)."
+83310201001,65,1,"(83.31) Excision of ganglion of tendon sheath,except of hand."
+83390201001,167,1,(83.39) Excision of Baker's cyst.
+83410101001,240,1,(83.41) Excision of tendon for graft.
+21830301001,598,1,(21.83) Reconstruction of nose with:forehead flap.
+21870101001,115,1,"(21.87) Rhinoplasty,Other."
+21910400001,38,1,(21.91) Lysis of nasal synechia(OR).
+83640101001,175,1,"(83.64) Suture of tendon,Other."
+83650201001,504,1,(83.65) Repair of diastasis recti.
+85350101001,415,1,(85.35) Bilateral subcutaneous mammectomy with synchronous implant.
+118103,318,1,"(81.03) Cervical fusion, posterior technique, Other."
+118152,185,1,(81.52) Femoral head replacement (hemiarthroplasty).
+118512,75,1,(85.12) Open biopsy of breast.
+ANP00001,93,1,????????????????? ??????????????????????????
+ART007,125,1,?????????????? (Sperm preparation)
+ART009,125,1,????????????????????? (Embryo culture)
+ART010,125,1,??????????????????????? ???????? ICSI (Intracytoplasmic sperm injection: ICSI)
+15700300001,210,1,"(15.7) Repair of laceration of extraocular muscle, tendon."
+1168591,300,1,(68.59) Vaginal hysterectomy.
+1168592,225,1,(68.59) Vaginal hysterectomy with A-P repair.
+117033,100,1,(70.33) Excision or destruction of lesion of vagina.
+117072,345,1,(70.72) Suture Wound.
+117157,58,1,(71.57) Excision sebaceous cyst at back.
+85430201001,247,1,(85.43) (MRM)Extended simple mastectomy NOS.
+85450301001,230,1,(85.45) Radical mastectomy NOS (MRM).
+84180000001,210,1,(84.18) Disarticulation of hip.
+116840,210,1,(68.40) TAH and BSO.
+116844053,248,1,Total abdominal hysterectomy + radical excision of iliac nodes + Omentectomy.
+14260101001,90,1,(14.26) Destruction of chorioretinal lesion by radiation therapy.
+14540101001,175,1,(14.54) Repair of retinal detachment with laser photocoagulation.
+14720100001,100,1,(14.72) Aspiration of vitreous by posterior sclerotomy.
+14750000001,220,1,(14.75) Injection of vitreous substitute.
+14900000001,44,1,"(14.9) Retina, choroid, and posterior chamber,Other Operation."
+34730100001,244,1,(34.73) Closure of:bronchopleural fistula.
+68230000001,95,1,(68.23) Endometrial ablation.
+118594,195,1,(85.94) Removal of implant of breast.
+11990000001,60,1,"(11.99) Cornea,Other Operations on."
+12104,45,1,???????????????????????? (????????? NG)
+12140000001,125,1,"(12.14) Iridectomy,Other."
+21690200001,80,1,"(21.69) Turbinectomy, Unilat."
+85320101001,563,1,(85.32) Bilateral reduction mammoplasty.
+63400000001,152,1,(63.40) Epididymectomy.
+63730000001,130,1,(63.73) Vasectomy.
+64490101001,180,1,"(64.45) Repair of penis,Other."
+38870102001,240,1,"(38.87) Surgical occlusion of vessels(Other),Iliac(abdominal)."
+37210000001,43,1,(37.21) Right heart cardiac catheterization.
+37310000001,140,1,(37.31) Pericardiectomy.
+37320100001,670,1,(37.32) Repair of aneurysm of heart.
+37400000001,170,1,(37.4) Repair of heart and pericardium..
+61110000001,50,1,(61.11) Biopsy of scrotum or tunica vaginalis.
+61300000001,120,1,(61.3) Excision or destruction of lesion or tissue of scrotum.
+61920000001,105,1,(61.92) Excision of lesion of tunica vaginalis other than hematocele.
+60290101001,160,1,"(60.29) Transurethral prostatectomy,Other."
+68140000001,235,1,(68.14) Open biopsy of uterine ligaments.
+43420000001,225,1,(43.42) Local excision of other lesion or tissue of stomach.
+43600300001,115,1,(43.6) Gastropylorectomy.
+40530100001,260,1,(40.53.A1) Extraperitoneal Node Dissection.
+85960101001,205,1,(85.96) Removal of breast tissue expander.
+84480000001,55,1,(84.48) Implantation of prosthetic device of leg.
+85000201001,125,1,(85) Incision of breast (skin).
+45790100001,335,1,(45.79) Enterocolectomy NEC.
+45800100001,307,1,"(45.8) Excision of cecum, colon, and sigmoid."
+45930000001,160,1,"(45.93) Small-to-large intestinal anastomosis,Other."
+45940000001,290,1,(45.94) Large-to-large intestinal anastomosis.
+60690101001,265,1,"(60.69) Prostatectomy,Other."
+ART013,125,1,?????????? (Ovum pick-up)
+86750101001,165,1,(86.75) Revision of pedicle or flap graft.
+85510101001,233,1,(85.51) Unilateral injection into breast for augmentation.
+85520101001,560,1,(85.52) Bilateral injection into breast for augmentation.
+85810101001,120,1,(85.81) Suture of laceration of breast.
+86020401001,44,1,(86.02) Pigmenting of skin of filling material.
+85820101001,240,1,(85.82) Split-thickness graft to breast.
+85930101001,385,1,(85.93) Revision of implant of breast.
+86710301001,327,1,(86.71) Flap design and raising.
+86740201001,385,1,(86.74) Attachment by:advanced flap.
+DFOBG166,100,1,????????????? 1 OB-Gyn Diagnositc laparoscopy
+DFOBG173,310,1,????????????? 1 OB-Gyn Pelvic lymphadenectomy
+DFOBG178,325,1,????????????? 1 OB-Gyn Laparoscopically assisted radical vaginal hysterectomy + pelvic lymphadenectomy
+DFOBG111,235,1,"????????????? 1 OB-Gyn Ovarian cystectomy, unilateral, laparoscopic"
+DFOBG117,285,1,"????????????? 1 OB-Gyn Salpingo- oophrectomy, bilateral, laparoscopic"
+114901,85,1,(49.01) Incision of perianal abscess.
+116573,191,1,(65.73) Salpingo-oophoroplasty.
+86280203001,70,1,(86.28) Debridement (750 ???).
+DFOBG025,191,1,"OB-Gyn Lysis of adhesion of ovary, tube, uterus"
+DFOBG032,170,1,"OB-Gyn Salpingectomy, unilateral"
+DFOBG037,125,1,OB-Gyn Excision of lesion of uterus
+86830201001,128,1,"(86.83) Excision of lipoma (OR ????,bedside)."
+86830601001,220,1,(86.83) Reduction of adipose tissue of:thighs(trochanteric).
+86610101001,73,1,(86.61) Full-thickness skin graft to hand.
+116040,300,1,(60.40) Retropubic prostatectomy.
+1154233,230,1,(54.23) Biopsy of omentum.
+115444,390,1,(54.4) Excision of retroperitoneal lesion.
+DFOBG041,310,1,OB-Gyn BRadical abdominal hysterectomy
+DFLYM108,350,1,????????????? 1 Lymphatic Excision of axillary lymph nodes (GA)
+116320,92,1,(63.20) Excision of cyst of epididymis.
+116539,215,1,(65.39) Unilateral oophorectomy.
+116549,245,1,(65.49) Unilateral salpingo-oophorectomy..
+42550000001,420,1,(42.55) Intrathoracic esophageal anastomosis with interposition of colon.
+39540000001,525,1,(39.54) Re-entry operation (aorta).
+39590000001,461,1,"(39.59) Repair of vessel,Other."
+85110101001,213,1,(85.11) Closed[percutaneous][needle]biopsy of breast.
+11571901,45,1,(57.19) Other cystotomy.
+11577,235,1,(57.7) Total cystectomy.
+11590802,40,1,(59.08) Drainage of kidney by stent.
+11600501,567,1,(60.05) Redical prostatectomy.
+DFOBG051,135,1,OB-Gyn Excision of lesion of cervix
+DFOBG055,100,1,OB-Gyn Biopsy of vagina
+DFOBG058,300,1,"OB-Gyn Vaginectomy, complete"
+116242,92,1,(65.42) Removal of remaining testis.
+DFOBG118,310,1,"????????????? 1 OB-Gyn Salpingo- oophrectomy, bilateral, open"
+DFOBG119,202,1,"????????????? 1 OB-Gyn Salpingo- oophrectomy, unilateral, laparoscopic"
+DFOBG132,170,1,"????????????? 1 OB-Gyn Salpingectomy, unilateral"
+DFOBG133,145,1,????????????? 1 OB-Gyn Diagnostic hysteroscopy
+115503,86,1,(55.03) Percutaneous nephrostomy without fragmentation.
+11570604,498,1,(57.06) Wedge resection of bladder.
+1185431,260,1,"(85.43) Unilateral extended simple mastectomy ,Modified radical mastectomy, Simple mastectomy with excision of reginal lymp node."
+118554,480,1,(85.54) Augmentation with breast implant (bilateral) mammoplasty
+DFOBG078,325,1,OB-Gyn Laparoscopically assisted radical vaginal hysterectomy + pelvic lymphadenectomy
+DFOBG090,225,1,OB-Gyn Vaginal hysterectomy + repair of cystocele and/or rectocele
+DFOBG105,178,1,"????????????? 1 OB-Gyn Oophrectomy, bilateral, laparoscopic"
+DFOBG109,186,1,"????????????? 1 OB-Gyn Ovarian cystectomy, bilateral, laparoscopic"
+118584,390,1,(85.84) Mammoplasty with pedicle graft
+118585,597,1,(85.85) Mammoplasty with muscle flap
+DFOBG009,186,1,"OB-Gyn Ovarian cystectomy, bilateral, laparoscopic"
+DFOBG011,235,1,"OB-Gyn Ovarian cystectomy, unilateral, laparoscopic"
+DFOBG018,310,1,"OB-Gyn Salpingo- oophrectomy, bilateral, open"
+DFOBG019,202,1,"OB-Gyn Salpingo- oophrectomy, unilateral, laparoscopic"
+115451,475,1,(54.51) Laparoscopic lysis of peritoneal adhesions.
+115463,60,1,(54.63) Suture of laceration of abdominal wall.
+DFOBG020,191,1,"OB-Gyn Salpingo- oophrectomy, unilateral, open"
+DF5900014,88,1,??????????????????????????????????????????????????? ??????
+DF5900015,72,1,???????????????????????????????????????????? (IV)
+DF5900020,95,1,???????????????????????????????????????????????????????? (General)
+ART015,125,1,???????????????????? (Assisted hatching)
+DF5900004,95,1,??????????????????????????????????
+DF5900012,95,1,???????????????????????????????????????????????????????????
+DFOBG141,310,1,????????????? 1 OB-Gyn BRadical abdominal hysterectomy
+56890000001,195,1,"(56.89) Repair of ureter,Other."
+56920000001,195,1,(56.92) Implantation of electronic ureteral stimulator.
+45720100001,180,1,(45.72) Resection of cecum and terminal ileum.
+57890200001,58,1,(57.89) Cystopexy NOS.
+58000101001,95,1,(58) Urethrotomy.
+58500301001,100,1,(58.5) Internal urethral meatotomy(urethrotomy).
+40300200001,664,1,(40.3.A2) Regional lymph node excision with excision of lymph.
+114621,421,1,(46.21) Temporary ileostomy.
+65310000001,195,1,(65.31) Laparoscopic unilateral oophorectomy.
+63100000001,101,1,(63.10) Varicocelectomy and hydrocelectomy of spermatic cord.
+39250000001,155,1,(39.25) Aorta-iliac-femoral bypass.
+39290900001,679,1,(39.29) Bypass (graft):vascular NOS.
+57590000001,295,1,(57.59) Open excision or destruction of other lesion or tissue.
+56510300001,500,1,(56.51) Formation of open ileal bladder.
+56610200001,270,1,(56.61) Ureterostomy.
+56720000001,485,1,(56.71) Revision of ureterointestinal anastomosis.
+55690101001,365,1,(55.69) Kidney transplantation.
+55860201001,175,1,(55.86) Nephropyeloureterostomy.
+55860301001,351,1,(55.86) Pyeloureterovesical anastomosis.
+55930000001,105,1,(55.93) Replacement of nephrostomy tube.
+56950000001,270,1,(56.95) Ligation of ureter.
+57120000001,467,1,(57.12) Lysis of intraluminal adhesions with incision into bladder.
+65240000001,185,1,(65.24) Laparoscopic wedge resection of ovary.
+65290200001,160,1,(65.29) Cauterization of ovary.
+DFOBG135,145,1,????????????? 1 OB-Gyn Biopsy lesion of uterus
+DFOBG076,230,1,OB-Gyn Laparoscopically assisted radical vaginal hysterectomy + adnexal operation
+114549,325,1,(45.79) Subtotal Colectomy.
+114562,170,1,(45.62) Small bowel resection.
+116732,114,1,(67.32) Destruction of lesion of cervix by cauterization.
+1145911,417,1,(45.91) Small-to-small intestinal anastomosis.
+114601,310,1,(46.01) Loop ileostomy.
+56410200001,196,1,(56.41) Shortening of ureter with reimplantation.
+DFRTA103,380,1,????????????? 1 Anterior resection of rectum
+EYE1030068,60,1,Remove band k
+PF03022601,255,1,(8522) Resection of quadrant of breast.
+PF03022603,260,1,(8524) Excision of ectopic breast tissue.
+115252,405,1,(52.52) Distal pancreatectomy.
+115362,175,1,(53.62) Laparoscopic incisional hernia repair with graft or prosthesis.
+115403,177,1,(54.0) Drainage of retroperitoneal abscess.
+OOR0020,245,1,FOL Bronchoscopy & biopsy.
+DFSGI005,81,1,Colonoscopy without biopsy
+DFSHB005,299,1,Hemihepatectomy (right lobe)
+DFOBG290,225,1,????????????? 2 OB-Gyn Vaginal hysterectomy + repair of cystocele and/or rectocele
+DFOBG067,152,1,OB-Gyn Exploratory laparotomy
+DFOBG073,225,1,OB-Gyn Pelvic lymphadenectomy
+DFSHB105,299,1,????????????? 1 Hemihepatectomy (right lobe)
+DN61108002,392,1,?????????
+DFRTA021,111,1,Hemorrhoidectomy
+1134842,390,1,(34.84) Repair diaphragm.
+DFPDM001,50,1,Skin biopsy
+DFPGI003,104,1,Proctoscopy
+DFOBG190,225,1,????????????? 1 OB-Gyn Vaginal hysterectomy + repair of cystocele and/or rectocele
+DFOBG209,186,1,"????????????? 2 OB-Gyn Ovarian cystectomy, bilateral, laparoscopic"
+DFOBG211,235,1,"????????????? 2 OB-Gyn Ovarian cystectomy, unilateral, laparoscopic"
+DFOBG218,310,1,"????????????? 2 OB-Gyn Salpingo- oophrectomy, bilateral, open"
+DFSB101,270,1,????????????? 1 Simple Mastectomy
+11439101,455,1,"(43.9(1,9)) Total gastrectomy."
+114501,330,1,(45.01) Incision of duodenum.
+114513,48,1,(45.13) Esophagogastroduodenoscopy [EGD].
+DFOBG241,310,1,????????????? 2 OB-Gyn BRadical abdominal hysterectomy
+DFOBG244,270,1,????????????? 2 OB-Gyn Total abdominal hysterectomy
+HEMO590003,400,1,?????? Double lumen catheter.
+OOR0018,200,1,Laryngo-esophago-bronchoscope.
+113481,293,1,(34.81) Excision of lesion or tissue of diaphragm.
+55240101001,160,1,(55.24) Open biopsy of kidney.
+55510101001,120,1,(55.51) Nephroureterectomy.
+54630201001,72,1,(54.63) Suture of laceration of abdominal wall.
+54740101001,191,1,"(54.74) Repair of omentum,Other."
+56350000001,55,1,(56.35) Endoscopy (cystoscopy) (looposcopy)of ileal conduit.
+56410000001,420,1,(56.41) Partial ureterectomy.
+11323,240,1,(32.3) Segmental resection of lung.
+11324,215,1,(32.4) Lobectomy.
+54740401001,222,1,(54.74) Omentopexy.
+54910101001,170,1,(54.91) Percutaneous abdominal drainage.
+59000000001,184,1,"(59.00) Retroperitoneal dissection, not otherwise specified."
+59020000001,455,1,"(59.02) Lysis of perirenal or periureteral adhesions,Other."
+59030000001,205,1,(59.03) Laparoscopic lysis of perirenal or periureteral adhesions.
+59110000001,261,1,"(59.12) Lysis of perivesical adhesions,Other."
+59400000001,117,1,(59.4) Suprapubic sling operation.
+55110301001,245,1,(55.11) Pyelolithotomy.
+45210100001,325,1,(45.21) Intraoperative endoscopy of large intestine.
+45520100001,160,1,(45.52) Resection of colon for interposition.
+45620100001,470,1,(45.62) Duodenectomy.
+43890200001,195,1,(43.89) Sleeve resection of stomach.
+41990000001,211,1,"(41.99) Spleen,Other operations."
+42090100001,486,1,(42.09) Esophagotomy NOS.
+42400000001,531,1,"(42.4) Esophagectomy, not otherwise specified."
+40300000001,310,1,(40.3) Regional lymph node excision.
+OOR0032,64,1,?????????????? (Pulmonary wedge pressure).
+EYE020060,40,1,Pneumoretinopexy (C3F8 or SF6)
+11100000001,60,1,(11.1) Incision of cornea.
+11220000001,130,1,(11.22) Biopsy of cornea.
+112510,50,1,(25.10) Excision or destruction of lesion or tissue of tongue.
+112749,120,1,(27.49) Other exision of mouth.
+115103,175,1,(51.03) Open cholecystostomy.
+115122,330,1,(51.22) Cholecystectomy.
+56200000001,145,1,(56.2) Ureterotomy.
+56310100001,85,1,(56.31) Ureteroscopy(URS) with electrohydrolic lithrotrisy.
+54000401001,184,1,(54) Drainage of:retroperitoneal abscess.
+54120101001,145,1,(54.12) Reopening of recent laparotomy site.
+54190101001,121,1,"(54.19) Laparotomy,Other."
+53590501001,187,1,(53.59) Repair of hernia:ventral.
+44150000001,206,1,(44.15) Open biopsy of stomach.
+44290000001,206,1,"(44.29) Pyloroplasty,Other."
+ORN006,208,1,??????????????????????????????????????????????????? (NIM) Orthopedic
+53590201001,100,1,(53.59) Repair of hernia:epigastric.
+46930000001,309,1,(46.93) Revision of anastomosis of small intestine.
+47910101001,100,1,(47.91) Appendicostomy.
+53690101001,201,1,(53.69) Repair of other hernia of anterior abdominal wall with prosthesis.
+53700102001,145,1,(53.7) Herniotomy.
+53800202001,150,1,(53.8) Thoracoabdominal repair of diaphragmatic hernia(:hernioplasty).
+53820101001,485,1,(53.82) Repair of parasternal hernia.
+114054,475,1,(40.54) Radical groin dissection.
+114143,405,1,(41.43) Partial splenectomy.
+11430,210,1,(43.0) Gastrotomy.
+1103011,105,1,Direct laryngoscopy with remove FB.
+10210000001,60,1,(10.21) Biopsy of Conjunctiva.
+10310000001,90,1,(10.31) Excision of lesion or tissue of conjunctiva.
+11403,80,1,(40.3) Regional lymph node excision.
+PF03024411,480,1,(8554) Bilateral breast implant.
+1133272,240,1,"(33.27) V.A.T.S. with bleb resection mass, lung biopsy."
+OOR0150,75,1,?????.
+OOR0156,95,1,???????????????????
+OOR0160,61,1,Set Angiogram.
+ORN004,260,1,????????????????????????? (Navigator) ????????????(Tumor)
+OOR0059,53,1,??????????????????? (Proctoscopy).
+PF04472600,101,1,(4709) Appendicectomy (simple).
+114051,472,1,(40.51) Radical excision of axillary lymph nodes.
+PF14542628,475,1,(4863) ?????????????????? Other anterior resection of rectum.
+PF04681200,135,1,(9705) Replacement of stent(tube) in biliary duct.
+PF04532800,148,1,(4543) Endoscopic destruction of other lesion or tissue of large intestine.
+PF04533300,145,1,(4611) Temporary colostomy.
+PF04533309,177,1,"(4610) Colostomy,not otherwise specified."
+PF04533901,299,1,(4652) Closure of colostomy.
+PF04542601,100,1,(4636) [Endoscopic] polypectomy of rectum.
+PF1860000,136,1,(2121) Rhinoscopy.
+1103086,39,1,Vitreous taping.
+110309,340,1,(03.09) Decompression of spinal canal (laminectomy).
+110511,110,1,(05.11) Biopsy breast close or percutaneous (needle).
+PF04782260,86,1,"(5502) Nephrostomy, imaging guided."
+PF13023910,490,1,(8584) Pedicle graft to breast.
+PF13023911,600,1,(8585) Muscle flap graft to breast.
+PF13024410,350,1,(8553) ?????????????????? Unilateral breast implant.
+PF14002100,225,1,(5411) ?????????????????? Exploratory laparotomy.
+PF04443301,151,1,(4639) Jejunostomy.
+PF04453300,417,1,(4621) Temporary ileostomy.
+PF04462601,270,1,(4561) Multiple segmental resection of small intestine.
+PF04462602,170,1,(4562) Resection of exterioriged segment of small intestine.
+PF05072604,567,1,(605) Radical prostatectomy.
+PF05162211,85,1,(7122) Incision and drainage of Bartholin's cyst or abscess.
+PF04552600,80,1,(4903) Excision of skin tag(s).
+1103074,65,1,Remove FB (GA).
+46730000001,148,1,"(46.73) Suture of laceration of small intestine, except duodenum."
+46800200001,115,1,(46.8) Reduction of:intestinal torsion.
+45950000001,375,1,(45.95) Anastomosis to anus.
+46020101001,280,1,(46.02) Resection of exteriorized segment of small intestine.
+46040101001,270,1,(46.04) Resection of exteriorized segment of large intestine.
+49790000001,190,1,"(49.79) Repair of anus sphincter,Other."
+49930000001,88,1,"(49.93) Incision of anus,Other."
+PF04432100,330,1,(4501) Incision of duodenum.
+78560200001,213,1,"(78.56) Internal fixation of bone (prophylactic),patella."
+78580100001,220,1,"(78.58) Internal fixation of bone without fracture reduction,tarsals and metatarsals."
+78580200001,393,1,"(78.58) Internal fixation of bone (prophylactic),tarsals and metatarsals."
+78670300001,470,1,"(78.67) Internal fixation device,tibia and fibula."
+78690103001,122,1,"(78.69) Removal of implanted devices from bone,Phalanges (of foot) (of hand)."
+78690201001,165,1,"(78.69) External fixator device (invasive),Other."
+78920400001,280,1,"(78.92) Insertion of:totally implanted device (invasive),humerus."
+79840101001,80,1,(79.84) Open reduction of dislocation of hand and finger.
+SKIN600026,190,1,????????? Moh Micrographics surgery
+08350101001,150,1,(8.35) Repair of blepharoptosis by tarsal technique.
+03090000001,240,1,"(3.09) Exploration and decompression of spinal canal ,Other."
+08590201001,137,1,(8.59) Canthoplasty NOS.
+08850101001,155,1,"(8.85) Repair of laceration of eyelid, full-thickness,Other."
+PF04632601,433,1,(503) Lobectomy of liver.
+PF04642601,330,1,(5122) Open cholecystectomy.
+78550200001,255,1,"(78.55) Internal fixation of bone (prophylactic),femur."
+06020501001,89,1,(6.02) Reopening of wound of thyroid field for:removal of hematoma.
+07290000001,205,1,"(7.29) Partial Adrenalectomy,Other."
+08010101001,90,1,(8.01) Incision of lid margin.
+08090200001,40,1,(8.09) Incision & Curette(Eye).
+00800000001,255,1,"(0.80) revision of knee replacement,total(all component)."
+08220300001,85,1,(8.22) Nevus excision.
+08220301001,115,1,(8.22) Excision of:wart.
+06600101001,130,1,(6.6) Excision of lingual thyroid.
+PF2012602,558,1,(8691) Excision of neck skin for graft to other site.
+PF2012615,558,1,(864) Radical excision of neck skin lesion.
+PF2142100,50,1,(0400) Incision of lymphatic structure.
+PF2192601,175,1,(062) Unilateral thyroid lobectomy.
+00730000001,250,1,"(0.73) Revision of hip replacement,acetabular liner and/or femoral head only."
+06890201001,170,1,(6.89) Parathyroidectomy NOS.
+06890301001,159,1,(6.89) Partial parathyroidectomy.
+07220100001,245,1,(7.22) Adrenalectomy NOS.

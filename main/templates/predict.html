@@ -1,0 +1,153 @@
+
+
+
+
+
+
+ <!DOCTYPE html>
+<html lang="th">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Surgery AI Predictor</title>
+    
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/select2-bootstrap-5-theme@1.3.0/dist/select2-bootstrap-5-theme.min.css" />
+    <link href="https://fonts.googleapis.com/css2?family=Sarabun:wght@300;400;600&display=swap" rel="stylesheet">
+
+    <style>
+        body { font-family: 'Sarabun', sans-serif; background-color: #f4f6f9; color: #333; }
+        .container { max-width: 800px; margin: 40px auto; background: #fff; padding: 40px; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.05); }
+        h2 { text-align: center; color: #0d6efd; margin-bottom: 30px; }
+        h3 { border-bottom: 2px solid #eee; padding-bottom: 10px; margin-top: 30px; margin-bottom: 20px; color: #555; }
+        .radio-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 10px; margin-top: 10px; background: #f8f9fa; padding: 15px; border-radius: 8px; }
+        .radio-item { display: flex; align-items: center; cursor: pointer; }
+        .radio-item input { margin-right: 10px; }
+        .btn-submit { width: 100%; margin-top: 40px; padding: 15px; background: #198754; color: white; border: none; border-radius: 8px; font-size: 20px; font-weight: bold; }
+        .btn-submit:hover { background: #157347; }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h2>🔮 AI ประเมินเวลาผ่าตัด</h2>
+
+    <form action="{% url 'predict_submit' %}" method="POST">
+        {% csrf_token %}
+
+        <h3>1. ข้อมูลผู้ป่วย</h3>
+        <div class="row g-3">
+            <div class="col-md-4">
+                <label class="form-label">อายุ</label>
+                <input type="number" name="Age" class="form-control" required>
+            </div>
+            <div class="col-md-4">
+                <label class="form-label">ส่วนสูง (cm)</label>
+                <input type="number" name="Height" class="form-control" required>
+            </div>
+            <div class="col-md-4">
+                <label class="form-label">น้ำหนัก (kg)</label>
+                <input type="number" step="0.1" name="BodyWeight" class="form-control" required>
+            </div>
+            <div class="col-md-12 mt-2">
+                <label>เพศ: </label> &nbsp;
+                <input type="radio" name="Gender" value="1" checked> ชาย &nbsp;
+                <input type="radio" name="Gender" value="2"> หญิง
+            </div>
+        </div>
+
+        <h3>2. แพทย์และหัตถการ</h3>
+        <div class="mb-3">
+            <label class="form-label">แพทย์ผู้ผ่าตัด</label>
+            <select name="Doctor" class="form-select select2" required>
+                <option value="">ค้นหา...</option>
+                {% for doc in doctors %}
+                <option value="{{ doc.id }}">{{ doc.text }}</option>
+                {% endfor %}
+            </select>
+        </div>
+
+        <div class="mb-3">
+            <label class="form-label">หัตถการ (เลือกได้หลายรายการ)</label>
+            <select name="TreatmentCode" id="treatmentSelect" class="form-select select2" multiple="multiple" required>
+                {% for tx in treatments %}
+                <option value="{{ tx.id }}" data-spec="{{ tx.spec }}">{{ tx.text }}</option>
+                {% endfor %}
+            </select>
+            <input type="hidden" name="Specialty" id="specialtyInput">
+        </div>
+
+        <h3>3. ข้อมูลการผ่าตัด</h3>
+        <label>สถานที่</label>
+        <div class="radio-grid">
+            <label class="radio-item"><input type="radio" name="FacilityRmsNo" value="4OR" checked> 400 เตียง</label>
+            <label class="radio-item"><input type="radio" name="FacilityRmsNo" value="OR"> 100 เตียง</label>
+            <label class="radio-item"><input type="radio" name="FacilityRmsNo" value="ORHB"> Hybrid</label>
+            <label class="radio-item"><input type="radio" name="FacilityRmsNo" value="EOUT"> นอกเวลา</label>
+            <label class="radio-item"><input type="radio" name="FacilityRmsNo" value="OROUT"> ห้องผ่าตัด 100 เตียง (นอกเวลา)</label>
+            <label class="radio-item"><input type="radio" name="FacilityRmsNo" value="OROPH"> OROPH</label>
+        </div>
+
+        <label class="mt-3">ความเร่งด่วน</label>
+        <div class="radio-grid" style="grid-template-columns: repeat(3, 1fr);">
+            <label class="radio-item"><input type="radio" name="ORCaseType" value="1" checked> Elective</label>
+            <label class="radio-item"><input type="radio" name="ORCaseType" value="2"> Urgency</label>
+            <label class="radio-item"><input type="radio" name="ORCaseType" value="3"> Emergency</label>
+        </div>
+
+        <label class="mt-3">ประเภทเคส (Major/Minor)</label>
+        <div class="radio-grid" style="grid-template-columns: repeat(2, 1fr);">
+            <label class="radio-item"><input type="radio" name="ORClassifiedType" value="1" checked> Major (ใหญ่)</label>
+            <label class="radio-item"><input type="radio" name="ORClassifiedType" value="2"> Minor (เล็ก)</label>
+        </div>
+
+        <label class="mt-3">ยาสลบ</label>
+        <div class="radio-grid">
+            <label class="radio-item"><input type="radio" name="AnesthesiaType" value="ANES_GA" checked> GA</label>
+            <label class="radio-item"><input type="radio" name="AnesthesiaType" value="ANES_Local"> Local</label>
+            <label class="radio-item"><input type="radio" name="AnesthesiaType" value="ANES_TIVA"> TIVA</label>
+            <label class="radio-item"><input type="radio" name="AnesthesiaType" value="ANES_Other"> อื่นๆ</label>
+        </div>
+
+        <div class="row mt-4">
+            <div class="col-md-6">
+                <label>เวลาเริ่มผ่าตัด</label>
+                <input type="datetime-local" name="StartTime" class="form-control" required>
+            </div>
+            <div class="col-md-6">
+                <label>ปรับเวลา (Factor)</label>
+                <select name="Complexity" class="form-select">
+                    <option value="0.8">ง่าย (x0.8)</option>
+                    <option value="1.0" selected>ปกติ (x1.0)</option>
+                    <option value="1.3">ยาก (x1.3)</option>
+                    <option value="1.5">ยากมาก (x1.5)</option>
+                </select>
+            </div>
+        </div>
+
+        <button type="submit" class="btn-submit">🚀 คำนวณเวลา</button>
+    </form>
+</div>
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js"></script>
+<script>
+    $(document).ready(function() {
+        $('.select2').select2({ theme: 'bootstrap-5', width: '100%' });
+
+        $('#treatmentSelect').on('change', function() {
+            var selected = $(this).select2('data');
+            if (selected.length > 0) {
+                $('#specialtyInput').val($(selected[0].element).data('spec'));
+            }
+        });
+    });
+</script>
+</body>
+</html>
+
+
+
+
+
