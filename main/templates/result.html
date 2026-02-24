@@ -11,80 +11,20 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 
     <style>
-        body {
-            font-family: 'Sarabun', sans-serif;
-            background-color: #f0f2f5;
-            color: #333;
-        }
-        .result-container {
-            max-width: 900px;
-            margin: 40px auto;
-        }
-        .card-main {
-            border: none;
-            border-radius: 20px;
-            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
-            overflow: hidden;
-        }
-        .header-gradient {
-            background: linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%);
-            color: white;
-            padding: 30px;
-            text-align: center;
-        }
-        .time-display {
-            background: #ffffff;
-            border-radius: 15px;
-            padding: 20px;
-            margin-top: -40px;
-            box-shadow: 0 5px 15px rgba(0,0,0,0.05);
-            border: 1px solid #e5e7eb;
-        }
-        .stat-label {
-            font-size: 0.9rem;
-            color: #6b7280;
-            text-transform: uppercase;
-            letter-spacing: 1px;
-        }
-        .stat-value {
-            font-size: 2.5rem;
-            font-weight: 700;
-        }
-        .main-avg {
-            color: #2563eb;
-            font-size: 3.5rem;
-        }
-        .info-section {
-            background-color: #f8fafc;
-            border-radius: 15px;
-            padding: 25px;
-            border-left: 5px solid #3b82f6;
-        }
-        .treatment-item {
-            font-size: 0.95rem;
-            padding: 5px 0;
-            border-bottom: 1px solid #edf2f7;
-        }
-        .treatment-item:last-child {
-            border-bottom: none;
-        }
-        .chart-container {
-            position: relative;
-            height: 300px;
-            margin: 20px 0;
-        }
-        .btn-back {
-            background-color: #64748b;
-            color: white;
-            border-radius: 10px;
-            padding: 12px 30px;
-            transition: all 0.3s;
-        }
-        .btn-back:hover {
-            background-color: #475569;
-            color: white;
-            transform: translateY(-2px);
-        }
+        body { font-family: 'Sarabun', sans-serif; background-color: #f0f2f5; color: #333; }
+        .result-container { max-width: 900px; margin: 40px auto; }
+        .card-main { border: none; border-radius: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.1); overflow: hidden; }
+        .header-gradient { background: linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%); color: white; padding: 30px; text-align: center; }
+        .time-display { background: #ffffff; border-radius: 15px; padding: 20px; margin-top: -40px; box-shadow: 0 5px 15px rgba(0,0,0,0.05); border: 1px solid #e5e7eb; }
+        .stat-label { font-size: 0.9rem; color: #6b7280; text-transform: uppercase; letter-spacing: 1px; }
+        .stat-value { font-size: 2.5rem; font-weight: 700; }
+        .main-avg { color: #2563eb; font-size: 3.5rem; }
+        .info-section { background-color: #f8fafc; border-radius: 15px; padding: 25px; border-left: 5px solid #3b82f6; }
+        .treatment-item { font-size: 0.95rem; padding: 5px 0; border-bottom: 1px solid #edf2f7; }
+        .treatment-item:last-child { border-bottom: none; }
+        .chart-container { position: relative; height: 300px; margin: 20px 0; }
+        .btn-back { background-color: #64748b; color: white; border-radius: 10px; padding: 12px 30px; transition: all 0.3s; }
+        .btn-back:hover { background-color: #475569; color: white; transform: translateY(-2px); }
     </style>
 </head>
 <body>
@@ -97,13 +37,14 @@
         </div>
 
         <div class="card-body px-4 pb-5">
+
             <div class="row time-display mx-2 text-center">
-                <div class="col-md-4 mb-3 mb-md-0">
+                <div class="col-md-4">
                     <div class="stat-label">เร็วที่สุด</div>
                     <div class="stat-value text-success">{{ stats.min }}</div>
                     <div class="text-muted small">นาที</div>
                 </div>
-                <div class="col-md-4 mb-3 mb-md-0 border-start border-end">
+                <div class="col-md-4 border-start border-end">
                     <div class="stat-label fw-bold text-primary">ค่าประมาณการ</div>
                     <div class="stat-value main-avg">{{ stats.avg }}</div>
                     <div class="text-muted fw-bold">นาที</div>
@@ -115,31 +56,17 @@
                 </div>
             </div>
 
-            {% if error %}
-            <div class="alert alert-danger mt-4" role="alert">
-                <i class="fa-solid fa-circle-exclamation me-2"></i> <strong>Error:</strong> {{ error }}
-            </div>
-            {% else %}
-
+            {% if not error %}
             <div class="row mt-5">
                 <div class="col-lg-6 mb-4">
                     <div class="info-section h-100">
                         <h5 class="mb-4 text-dark border-bottom pb-2">
                             <i class="fa-solid fa-file-medical text-primary me-2"></i> ข้อมูลเคสผ่าตัด
                         </h5>
-                        <p class="mb-2"><strong>แพทย์ผู้ทำหัถการ:</strong> <br><span class="text-secondary">{{ doctor_name }}</span></p>
-                        <p class="mb-3"><strong>แผนก:</strong> <br><span class="badge bg-primary px-3 py-2 fs-6">{{ main_specialty }}</span></p>
-                        
-                        <div class="mt-4">
-                            <strong>รายการหัตถการ ({{ treatment_count }} รายการ):</strong>
-                            <div class="mt-2" style="max-height: 200px; overflow-y: auto;">
-                                {% for item in treatment_list %}
-                                <div class="treatment-item">
-                                    <i class="fa-solid fa-check-circle text-success me-2"></i> {{ item }}
-                                </div>
-                                {% endfor %}
-                            </div>
-                        </div>
+                        <p><strong>แพทย์ผู้ทำหัตถการ:</strong><br>{{ doctor_name }}</p>
+                        <p><strong>แผนก:</strong><br>
+                            <span class="badge bg-primary px-3 py-2 fs-6">{{ main_specialty }}</span>
+                        </p>
                     </div>
                 </div>
 
@@ -157,7 +84,6 @@
                     </div>
                 </div>
             </div>
-
             {% endif %}
 
             <div class="text-center mt-4">
@@ -167,82 +93,87 @@
             </div>
         </div>
     </div>
-    
-    <p class="text-center text-muted mt-4 small">
-        &copy; 2025 Surgery Prediction System | พัฒนาโดยใช้เทคโนโลยี Ensemble Machine Learning
-    </p>
 </div>
 
+<!-- Chart.js -->
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 
-<script>
-    // ตรวจสอบว่ามีข้อมูลส่งมาจาก Views หรือไม่
-    {% if not error %}
-    const ctx = document.getElementById('modelChart').getContext('2d');
-    
-    // สร้าง Gradient สำหรับกราฟ
-    const gradientXGB = ctx.createLinearGradient(0, 0, 0, 400);
-    gradientXGB.addColorStop(0, '#3b82f6');
-    gradientXGB.addColorStop(1, '#1d4ed8');
+<!-- DataLabels Plugin -->
+<script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2"></script>
 
-    new Chart(ctx, {
-        type: 'bar',
-        data: {
-            labels: ['XGBoost', 'LightGBM', 'CatBoost'],
-            datasets: [{
-                label: 'เวลา (นาที)',
-                // ดึงค่าจากตัวแปร model_details ใน views.py
-                data: [
-                    {{ model_details.xgb|default:0 }}, 
-                    {{ model_details.lgb|default:0 }}, 
-                    {{ model_details.cat|default:0 }}
-                ],
-                backgroundColor: [
-                    '#3b82f6', // Blue
-                    '#10b981', // Green
-                    '#f59e0b'  // Orange
-                ],
-                borderRadius: 10,
-                barThickness: 40
-            }]
+<script>
+{% if not error %}
+const ctx = document.getElementById('modelChart').getContext('2d');
+
+new Chart(ctx, {
+    type: 'bar',
+    data: {
+        labels: ['XGBoost', 'LightGBM', 'CatBoost'],
+        datasets: [{
+            label: 'เวลา (นาที)',
+            data: [
+                {{ model_details.xgb|default:0 }},
+                {{ model_details.lgb|default:0 }},
+                {{ model_details.cat|default:0 }}
+            ],
+            backgroundColor: ['#3b82f6','#10b981','#f59e0b'],
+            borderRadius: 12,
+            barThickness: 45
+        }]
+    },
+    plugins: [ChartDataLabels],
+    options: {
+        responsive: true,
+        maintainAspectRatio: false,
+
+        //  เพิ่มพื้นที่ด้านบน
+        layout: {
+            padding: {
+                top: 30
+            }
         },
-        options: {
-            responsive: true,
-            maintainAspectRatio: false,
-            plugins: {
-                legend: {
-                    display: false
-                },
-                tooltip: {
-                    callbacks: {
-                        label: function(context) {
-                            return ' ทำนาย: ' + context.raw + ' นาที';
-                        }
+
+        plugins: {
+            legend: { display: false },
+            tooltip: {
+                callbacks: {
+                    label: function(context) {
+                        return ' ทำนาย: ' + context.raw + ' นาที';
                     }
                 }
             },
-            scales: {
-                y: {
-                    beginAtZero: true,
-                    grid: {
-                        display: true,
-                        drawBorder: false,
-                        color: '#f1f5f9'
-                    },
-                    ticks: {
-                        font: { family: 'Sarabun' }
-                    }
+            datalabels: {
+                anchor: 'end',
+                align: 'end',
+                offset: -6,  
+                color: '#111',
+                font: {
+                    weight: 'bold',
+                    size: 14
                 },
-                x: {
-                    grid: { display: false },
-                    ticks: {
-                        font: { family: 'Sarabun', weight: 'bold' }
-                    }
+                formatter: function(value) {
+                    return value + ' นาที';
                 }
             }
+        },
+
+        scales: {
+            y: {
+                beginAtZero: true,
+                suggestedMax: Math.max(
+                    {{ model_details.xgb|default:0 }},
+                    {{ model_details.lgb|default:0 }},
+                    {{ model_details.cat|default:0 }}
+                ) + 15,  
+                grid: { color: '#f1f5f9' }
+            },
+            x: {
+                grid: { display: false }
+            }
         }
-    });
-    {% endif %}
+    }
+});
+{% endif %}
 </script>
 
 </body>
